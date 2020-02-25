@@ -14,6 +14,3 @@ header_pages:
   - Courses.md
   - Campus.md
   - Nijmegen.md
-  
-  minima:
-    skin: solarized-dark
