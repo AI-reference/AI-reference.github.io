@@ -1,3 +1,5 @@
+title: Campus
+
 ### Information about the campus
 
 #### Bus 10
