@@ -6,3 +6,11 @@ twitter_username: thijsvandenhout
 github_username: tvdhout
 
 theme: minima
+
+header_pages:
+  - Tools.md
+  - Tips.md
+  - Programming.md
+  - Courses.md
+  - Campus.md
+  - Nijmegen.md
