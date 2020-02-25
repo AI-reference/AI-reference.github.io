@@ -4,5 +4,16 @@
 
 ___
 
+#### IDEs
+#### Editors
+#### Git
 #### GitHub
-great VCS
+VCS, IDE integration, markdown (website), docker
+#### LaTeX
+#### Programming websites
+#### Terminal
+#### Paper writing guide
+#### Data storage
+#### Cognac website
+#### LinkedIn
+#### YouTube
