@@ -13,8 +13,7 @@ From the Nijmegen train station you have a couple of options:
 ___
 
 #### Map
-MAP
-
+![Campus map](campus_map.jpeg)
 ___
 
 #### Buildings
