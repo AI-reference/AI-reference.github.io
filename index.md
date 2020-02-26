@@ -1,4 +1,6 @@
-## AI Reference page
+---
+title: AI Reference page
+---
 
 Hello! My name is Thijs van den Hout, I gradauetd from by bachelor AI at Radboud University in 2018 and I am in the final stage of my Master AI at Radboud. I hope my experiences can be of help to you in your bachelor AI.
 
