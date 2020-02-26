@@ -87,9 +87,11 @@ Some general writing tips:
 * Save your final document as PDF, don't hand in file formats from editors (like word's .docx files)
 
 **Reference guide**
+
 _TODO_
 
 **LaTeX**
+
 LaTeX is kind of a programming language (if you take a very broad definition of the word), in which you can write your paper's layout and content to make it look very professional. You can write your paper in LaTeX on the website [Overleaf](https://www.overleaf.com). More information on LaTeX can be found on the [Tools page](Tools.md#latex).
 
 ###### [Back to top](Tips.md)
