@@ -6,15 +6,15 @@ title: Programming
 
 ___
 
-##### [Languages](#languages)
-##### [Programming styles](#programming-styles)
-##### [Data types](#data-types)
-##### [If Else](#if-else)
-##### [Loops](#loops)
-##### [Functions / methods](#functions-and-methods)
-##### [Recursion](#recursion)
-##### [Learn java](#learn-java)
-##### [Learn python](#learn-python)
+[Languages ](#languages)
+[Programming styles](#programming-styles)
+[Data types](#data-types)
+[If Else](#if-else)
+[Loops](#loops)
+[Functions / methods](#functions-and-methods)
+[Recursion ](#recursion)
+[Learn java](#learn-java)
+[Learn python](#learn-python)
 
 ___
 
@@ -126,7 +126,8 @@ System.out.println(numDivisors(6));
 Recursion is a useful programming tool, but can be quite tricky. Recursion is defined by calling a function in the body of that same function. This can lead to some very interesting behavior, but is also an easy source for tricky bugs. A recursive function should have some way to stop before calling the function again in its function body, otherwise it would call that function endlessly over and over again, crashing the program. This stopping criterion is called the base case. Let's first introduce an example.
 
 <details>
-	<summary>Example in java</summary>
+<summary>Example in java</summary>
+<p>
 
 ```java
 public int factorial(int n){      
@@ -136,10 +137,13 @@ public int factorial(int n){
         return(n * factorial(n-1));      
 }  
 ```
+
+</p>
 </details>
 
 <details>
-	<summary>Example in python</summary>
+<summary>Example in python</summary>
+<p>
 
 ```python
 def factorial(n):
@@ -148,6 +152,8 @@ def factorial(n):
 	else:
 		return n * factorial(n-1)
 ```
+
+</p>
 </details>
 
 
