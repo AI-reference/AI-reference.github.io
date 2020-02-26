@@ -10,11 +10,11 @@ ___
 
 This Resource page consists of:
 * [Useful tools](Tools.md)
+* [General tips](Tips.md)
 * [Programming basics](Programming.md)
-* [Information about Nijmegen](Nijmegen.md)
-* [Information about the campus](Campus.md)
 * [Course-specific resources](Courses.md)
-* [General tips and tricks](Tips.md)
+* [Information about the campus](Campus.md)
+* [Information about Nijmegen](Nijmegen.md)
 
 ___
 

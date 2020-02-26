@@ -163,10 +163,10 @@ public int factorial(int n){
 Same example in python:
 ```python
 def factorial(n):
-	if n==1:
-		return 1
-	else:
-		return n * factorial(n-1)
+  if n==1:
+	return 1
+  else:
+	return n * factorial(n-1)
 ```
 
 
