@@ -19,7 +19,7 @@ ___
 * [Student advisor](#student-advisor)
 * [Courses you dislike](#courses-you-dislike)
 * [Teaching assistancy](#teaching-assistancy)
-* [Student mail extras](#student-mail-extras)
+* [Student mail extras](#student-extras)
 * [Operating Systems](#operating-systems)
 
 ___
@@ -32,6 +32,8 @@ CognAC hosts tons of fun events for AI students every week, you can easily enrol
 CognAC also hosts workshops with real-world companies; a good way to broaden your network, and workshops on bachelor courses. For example, the association hosted a recap workshop about one of the programming courses last year. 
 
 Often you can visit lunch lectures hosted by CognAC where someone will give a small lecture (maybe someone from a company, or a Master student about their research). Lunch is often provided (free) at these lectures.
+
+CognAC also has a tutor program, so you can get a tutor if you are struggling with a specific course (or be a tutor if you are great).
 
 Going to CognAC events is the easiest way to make friends and get to know other AI students (not just first-years). It's a no-brainer.
 
@@ -83,6 +85,12 @@ Some general writing tips:
 * Use passive sentence structure, e.g.: _The data was gathered from this source_, instead of _We gathered the data from this source_.
 * Proofread your document well to prevent any easy-to-spot grammar errors or typos.
 * Save your final document as PDF, don't hand in file formats from editors (like word's .docx files)
+
+**Reference guide**
+_TODO_
+
+**LaTeX**
+LaTeX is kind of a programming language (if you take a very broad definition of the word), in which you can write your paper's layout and content to make it look very professional. You can write your paper in LaTeX on the website [Overleaf](https://www.overleaf.com). More information on LaTeX can be found on the [Tools page](Tools.md#latex).
 
 ###### [Back to top](Tips.md)
 
@@ -185,7 +193,16 @@ On your [personal schedule](https://persoonlijkrooster.ru.nl) you can see your s
 **Student email**
 You will automatically get a student email address in something like the following format: firstname.lastname@student.ru.nl. Yours may be a little different if there are more people with your name. You can [access your mailbox online](https://mail.ru.nl), or connect it to any email client you use (preferred). You should keep an eye on this mailbox since you might get important announcements or notifications on it. You can also create a rule to forward any email to your current email address, but I prefer just connecting the email address to your email client so you can reply using your student mail.
 
-With your student mail you can get access to some [cool extras from software companies](#student-mail-extras)
+With your student mail you can get access to some [cool extras from software companies](#student-extras)
+
+**Portal**
+From the [Radboud student portal](https://portal.ru.nl/) you can access all these services and more. If you see almost no content on the portal page, you may need to click on the button "My sites" in the top right and selecting the AI page.
+
+**STIP (student information point)**
+on [STIP](https://www.ru.nl/socialsciences/stip/programme-information/artificial-intelligence/) you can view all the details about the AI program at Radboud: the bachelor course overviews, master tracks, news, rules and regulations, etc. Anything related to the AI program organization-wise. 
+
+**RUQuest (Worldcat)**
+[RUQuest](https://ru.on.worldcat.org/discovery) is an online database with books, papers and complete scientific journals you can search for free. Often, scientific papers are locked behind a pay-wall at the journal's website, but RUQuest can get access to most papers for free. This is EXTREMELY useful when doing research, especially for bigger studies like your final thesis.
 
 ###### [Back to top](Tips.md)
 
@@ -201,31 +218,59 @@ If you can't find a textbook online, you can often [buy it with a discount](http
 ___
 
 ### Student advisor
-If at any point you have a question about the study program, a personal problem, conflict with students or professors, or anything else that may have an effect on your study and is related to **YOU** you can talk to a student advisor. 
+If at any point you have a question about the study program, a personal problem, conflict with students or professors, or anything else that may have an effect on your study and is related to **YOU** you can talk to a student advisor. Don't be afraid to contact the student advisor, everyone will at some point. You can make an appointment [here](https://cloud.reflexappointment.nl/appointment/RadboudFSW/en-GB/start?spx.StartPageIndex=2) or via the [Radboud student portal](https://portal.ru.nl/) on the AI page on the right side (see [online services](#online-services)).
+
+Some things you might want to talk to the student advisor about:
+* Failing many courses
+* Personal problems that affect your study (depression, loss of a family member, etc.)
+* Conflicts with other students or professors
+* Double checking some extra (or elective) courses you want to follow
+* Anything related to your study progress
+* More
+
+Your student advisor may also have walk-in hours, where you can ask a quick question without making an appointment. Check walk-in hours on the AI page on the portal.
+
 
 ###### [Back to top](Tips.md)
 
 ___
 
 ### Courses you dislike
+You may sometimes (_really_) don't like a course. If it is a mandatory course for the bachelor program you just have to get through it, it will just take one semester. Know that you can choose elective courses at the end of your bachelor and many more in your Master. You can also just register for extra courses on OSIRIS (if you can easily handle the load), even non-AI courses, but make sure to prioritize your mandatory courses.
+
+If you _really_ hate over half of the courses you are taught in the bachelor, you make want to reconsider the study. There is nothing wrong with not getting the perfect study choice right of the bat, plenty of people go on to do another study when they find out it's not exactly their cup of tea. 
 
 ###### [Back to top](Tips.md)
 
 ___
 
 ### Teaching assistancy
+In the case you did well on a course and you really liked the subject, you may want to check if the course is looking for Teaching Assistants (TAs) for the next year. As a TA, you help the professor with the course by for example hosting a work group, correcting homework, or even correcting exams. It looks great on your CV (teaching experience and in-depth knowledge of the subject) and the pay is better than the average part-time job a student could have. I have been a TA at Object Oriented Programming for three years in a row now and it is great. I was also TA at Databases, a former computer science course for one year.
 
 ###### [Back to top](Tips.md)
 
 ___
 
-### Student mail extras
+### Student extras
+Many students don't know that their student email gives them access to free versions of normally paid software. You can get the professional versions of [JetBrains IDEs](Tools.md#ides), a free [GitHub](Tools.md#github) Pro account, and more. 
+
+With your student card you can get discounts at museums, cinemas and other activities all around the world! Be sure to always carry your student card just in case you can safe some extra money. 
+
+At [Surfspot](https://www.surfspot.nl) you can buy software and hardware with a student discount. They also have free software which is normally paid. You login with your Brightspace account. Especially notable are Microsoft Office 365 Pro (Word, PowerPoint, etc.) for €3,99 (10 licences!!!), SPSS (A program you might use in statistics courses) for €3,75, and Adobe Creative Cloud for 50% off (if you're creative). Their hardware shop ranges from laptops, to gadgets, to computer parts.
+
 
 ###### [Back to top](Tips.md)
 
 ___
 
 ### Operating systems
+Many people are under the impression that Windows is the best Operating System (OS) because it is so customizable and everything is available for Windows. The truth is, it doesn't matter. Any OS can install any proper software, so you shouldn't worry about this. If anything, Unix-based OSs like Mac and Linux distributions are more flexible. Don't worry about your operating system; your study can be completed on whatever kind of laptop with a decent OS.
+
+Beware that if you have assignments that work with path strings, for example to load data from a directory, these paths will look different. A windows path to the default Documents folder looks something like:
+`C:\Users\Thijs\Documents`
+whereas the path to the default Documents folder in a Unix filesystem (e.g. Mac) looks like:
+`/Users/thijs/Documents`
+Note the backlashes in Windows vs the forward slashes in Mac.
 
 ###### [Back to top](Tips.md)
 
