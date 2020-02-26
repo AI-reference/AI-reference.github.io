@@ -4,14 +4,14 @@
 
 ___
 
-#####[Languages](#languages)
-#####[Programming styles](#programming-styles)
-#####[Data types](#data-types)
-#####[Functions / methods](#functions-/-methods)
-#####[Loops](#loops)
-#####[Recursion](#recursion)
-#####[Learn java](#learn-java)
-#####[Learn python](#learn-python)
+##### [Languages](#languages)
+##### [Programming styles](#programming-styles)
+##### [Data types](#data-types)
+##### [Functions / methods](#functions-and-methods)
+##### [Loops](#loops)
+##### [Recursion](#recursion)
+##### [Learn java](#learn-java)
+##### [Learn python](#learn-python)
 
 ___
 
@@ -49,7 +49,7 @@ This is called _dynamic typing_.
 
 Static typing allows the compiler to check for some obvious bugs before running the code, for example multipling a String by -3.67. These errors can be spotted by the editor while coding, which prevents you from having to debug your program from simple type errors. Dynamic typing is nice because it allows the programmer to write code quickly and change a variable however they want to. They do have to be more careful with writng their code to make sure all of it fits together nicely.
 
-#### Functions / methods
+#### Functions and methods
 
 
 #### Loops
