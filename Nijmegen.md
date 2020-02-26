@@ -1,4 +1,6 @@
-### Nijmegen
+---
+title: Nijmegen
+---
 
 ##### On this page I will give some basic information about Nijmegen
 

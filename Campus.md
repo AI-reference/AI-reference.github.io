@@ -1,4 +1,6 @@
-### Campus
+---
+title: Campus
+---
 
 ##### Here I will give some info about the campus you might need
 
