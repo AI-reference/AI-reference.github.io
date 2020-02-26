@@ -2,7 +2,9 @@
 title: Tools
 ---
 
-##### On this page I will describe some (software) tools that are useful during the AI bachelor and as a computer scientist in general.
+##### Useful tools
+On this page I will describe some (software) tools that are useful during the AI bachelor and as a computer scientist in general.
+
 ___
 
 * [Programming requirements](#programming-requirements)
@@ -30,27 +32,41 @@ To be able to write code, you need a few things...
 * An [IDE](#ides).
 * An interest and motivation for programming. Programming is much more than just learning the syntax of a language. It is a way of thinking. You will learn the mindset, and the tools you need to solve problems. If you program long enough, you will start to think of ways to solve problems in real-life by programming a solution, which is awesome.
 
+[Back to top ^](#useful-tools)
+
+___
+
 #### IDEs
 IDEs (Integrated Development Environment) are the programs in which you are going to write most of your code. Most IDEs you will use are specific to the programming language you will write in it. There exist IDEs in which you can write code in multiple languages, but I won't discuss those here, you will likely not use any.
 
-- **For java:**
+**For java:**
+
 The first programming language you will write code in is java. There are many IDEs for java, and you will likely be taught to use the IDE your professor prefers (or has always used and is refusing to change). I will list some IDEs with links to their download page, and my opinion of them
 
 * [Eclipse](https://www.eclipse.org) - probably your first recommended IDE by AI professors. It's okay. ([Eclipse tutorial playlist](https://www.youtube.com/playlist?list=PLEAQNNR8IlB5R_qZvrFH0g8wC_FLWK9si))
 * [Netbeans](https://netbeans.apache.org) - probably the second recommended IDE by professors. It's bad, be warned for many troubles with this IDE. ([Netbeans tutorial](https://www.youtube.com/watch?v=K3twuFyPwkg), the quality of this video is representative of a Netbeans experience. It's an old video but Netbeans still looks exactly the same)
 * [IntelliJ](https://www.jetbrains.com/idea/) - the absolute best IDE in my opinion; shockingly not recommended in any course I followed in the bachlor. IntelliJ is an IDE by the company [JetBrains](https://www.jetbrains.com). They create the best IDE for many programming languages. ([IntelliJ startup](https://www.youtube.com/watch?v=c0efB_CKOYo))
 
-- **For python:**
+**For python:**
+
 You will also use the python programming language in your bachelor. For python, you have three good options to write code in.
 
 * [PyCharm](https://www.jetbrains.com/pycharm/) is my recommended IDE for python programming. It is from the same company as IntelliJ (JetBrains) and works very similarly. You will want to use a proper IDE like this when writing larger programs or if you just like the help an IDE can offer during coding. ([Quick tutorial](https://www.youtube.com/watch?v=56bPIGf4us0))
-* [Regular text editor](#other-text-editors). You can also write code in a regular text editor and run it in the command line ([terminal](#terminal)). Simply write your code, save it as name.py and run it in the terminal with `python name.py`. This is only recommended for small programs. For larger programs you should use a proper IDE.
+* [Regular text editor](#text-editors). You can also write code in a regular text editor and run it in the command line ([terminal](#terminal)). Simply write your code, save it as name.py and run it in the terminal with `python name.py`. This is only recommended for small programs. For larger programs you should use a proper IDE.
 * [Jupyter Notebook](https://jupyter.org/index.html). Jupyter notebooks are amazing to develop code which you want to run piece by piece. You can create _cells_ in which you write your code and you can run your cells one after the other. The python _interpreter_ will keep in memory all code that has been ran before so you can split your program over multiple blocks. This is useful for example when loading a lot of data or doing a computation that takes a long time, and doing various things with it after that. Instead of running the whole code again every time, you can just run the part where you work with the data and load it once at the start of your session. [Tutorial](https://www.youtube.com/watch?v=HW29067qVWk). (I recommend pip install instead of conda install if you don't already have the whole conda setup installed).
 
 With your student-email (...@student.ru.nl) you can get the professional versions of JetBrains IDEs for free [here](https://www.jetbrains.com/student/). The free versions are fine too, but why not be fancy.
 
+[Back to top ^](#useful-tools)
+
+___
+
 #### text editors
 Often you may want to use a simple text editor. To open files to quickly see the contents without opening the complete IDE for example. Or when quickly writing some easy code. I recommend [Sublime Text](https://www.sublimetext.com). It's a great text editor and contains markup for virtually all coding languages. You will sometimes be prompted to buy a licence, but you can ignore that, it'll keep working.
+
+[Back to top ^](#useful-tools)
+
+___
 
 #### Git
 Sometimes you will be working on a large project and accidentally write a bug. Now you can't find the bug and it's messing everything up. All you want is to just go back to where everything worked again but you saved over all your files :(. The solution for this is a Version Control System, like Git. 
@@ -58,6 +74,10 @@ Sometimes you will be working on a large project and accidentally write a bug. N
 With git, you create a _repository_ in which you develop your program. Every time you feel like you wrote some changes to your code (or whatever is in your repository) you can _commit_ these changes, and git will create a snapshot of that current version of the repository. Git keeps track of all the commits you make in a repository and you can always go back to previous commits to take a look, or restore your project to a previous commit. You make your changes on a so called _branch_. If you want to try something new and you're not quite sure if it will work out, you can create a new branch and work on that branch, creating commits like normally. If you are satisfied with your change, you can _merge_ the branch on which you have been making changed with the _master branch_. This is a great way to work on programs without losing any previous saves. Check if you have git by typing `git --version` in your terminal, or [download git](https://git-scm.com/downloads).
 
 Tutorials on git will be given in the next section on [GitHub](#github), a website that can host your repositories.
+
+[Back to top ^](#useful-tools)
+
+___
 
 #### GitHub
 [GitHub](https://github.com) is an amazing website on which you can store your project in git repositories. Repositories (repos) on Github are public or private, public repos can been seen by anyone, and private repos can only be seen by you and your collaborators. Collaborators? Yes! You can work together on a project in a repository, meaning you can all make changes and commit these to the repository. 
@@ -81,14 +101,72 @@ Once again, you can get a [GitHub pro account for free](https://education.github
 
 You can also create websites and blogs easily with GitHub, like this website!!! It is built completely automatically and is super easy. [Learn more](https://pages.github.com)
 
+[Back to top ^](#useful-tools)
+
+___
+
 #### Terminal
 ![terminal image](terminal.png)
 
+The terminal (or command prompt on Windows, I will call it terminal) is a user interface to your computer that is different from the graphical user interface you are used to. We now view everything that happens on our computer in application windows with nice graphics. Opening our documents folder happens just by clicking on it and seeing the files displayed with a preview image.
+
+The terminal is a command-line interface, in which users can interact with the computer system using commands. There are commands for opening programs, showing files in a particular folder, creating a new file, even downloading content from the internet. Pretty much anything concerning your operating system and file system can be done through the terminal. 
+
+Knowing your way around a terminal is a useful skill that can be used in many situations. Some programs can **only** be accessed from the terminal, and many installations of software will happen in the terminal. You may at some point want to connect to a server or other computer, and only be presented with the terminal of that computer, no fancy graphical user interfaces.
+
+The most useful type of terminal (in my and many others' opinion) is a Unix terminal. Unix is the underlying family of operating systems for Linux and MacOS systems. Consequently, a unix terminal is available by default on any Linux and Mac system. Simply open the app "terminal" and you are there. Windows on the other hand, has its own _command prompt (cmd)_. Most third-party app installation etc. can be done just fine in a Windows terminal, but if you want to be extra cool you can [download and use a Unix terminal](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) on your Windows computer. To open the Windows command prompt, press the Windows key, type "cmd" and press enter.
+
+If you want you can learn how to navigate your computer with the terminal:
+
+* [Unix Terminal basics](https://www.youtube.com/watch?v=5XgBd6rjuDQ)
+* [Windows command prompt tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu)
+
+Things the terminal is used for the most include:
+* Working with [Git](#git), the tutorials mentioned in the [GitHub](#github) section explain how to use git with the terminal.
+* Installing python packages with pip. Pip is the standard python package-management system. If you need to download a python package, chances are high you will do it through pip. for example, to install the machine learning library scikit-learn with loads of machine learning models, use the command `pip install scikit-learn`. 
+
+In conclusion, the terminal looks like a scary hacker program, but it is very useful in many scenarios and you can see it as just a different way to interact with your computer.
+
+[Back to top ^](#useful-tools)
+
+___
+
 #### Writing papers
+In this section I will give some resoures that can help you write better papers. You will write many scientific reports and papers during your carreer at University, so it is good to have them look professional and read like some genius PhD wrote it. For tips on how to effectively **read** papers, look at the corresponding section on the [Tips](Tips.md) page.
+
+[Back to top ^](#useful-tools)
+
+___
+
 #### LaTeX
 
+[Back to top ^](#useful-tools)
+
+___
 
 #### Data storage
+
+[Back to top ^](#useful-tools)
+
+___
+
 #### Cognac website
+
+[Back to top ^](#useful-tools)
+
+___
+
 #### LinkedIn
+
+[Back to top ^](#useful-tools)
+
+___
+
 #### Youtube
+
+[Back to top ^](#useful-tools)
+
+___
+
+
+[Back to home](index.md)
