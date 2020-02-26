@@ -6,29 +6,25 @@ On this page I will give some tips and tricks that are applicable in the bachelo
 
 ___
 
-1. [CognAC](#cognac)
-2. [Reading papers](#reading-papers)
-3. [Writing papers](#writing-papers)
-4. [Plagiarism](#plagiarism)
-5. [Group projects](#group-projects)
-6. [Presenting](#presenting)
-7. [Exams and studying](#exams-and-studying)
-8. [Following lectures](#following-lectures)
-9. [Online services](#online-services)
-	* Brightspace
-	* OSIRIS
-	* Personal schedule
-	* Email
-10. [Buying text books](#buying-textbooks)
-11. [Student advisor](#student-advisor)
-12. [Courses you dislike](#courses-you-dislike)
-13. [Teaching assistancy](#teaching-assistancy)
-14. [Student mail extras](#student-mail-extras)
-15. [Operating Systems](#operating-systems)
+* [CognAC](#cognac)
+* [Reading papers](#reading-papers)
+* [Writing papers](#writing-papers)
+* [Plagiarism](#plagiarism)
+* [Group projects](#group-projects)
+* [Presenting](#presenting)
+* [Exams and studying](#exams-and-studying)
+* [Following lectures](#following-lectures)
+* [Online services](#online-services)
+* [Buying text books](#buying-textbooks)
+* [Student advisor](#student-advisor)
+* [Courses you dislike](#courses-you-dislike)
+* [Teaching assistancy](#teaching-assistancy)
+* [Student mail extras](#student-mail-extras)
+* [Operating Systems](#operating-systems)
 
 ___
 
-#### CognAC
+### CognAC
 [CognAC](https://svcognac.nl) is the study association for Artificial Intelligence at Radboud University. You should definitely join, since the contribution is very cheap and you get so much out of it.
 
 CognAC hosts tons of fun events for AI students every week, you can easily enroll on the website if needed. CognAC also offer 15% off textbooks via their website. If you have the time you can join a committee (of which there are so many), like the Activities committee, City Trip committee, First Years committee, and more organizational ones such as the Website committee, Audit committee and Board Application committee.
@@ -43,7 +39,7 @@ Going to CognAC events is the easiest way to make friends and get to know other 
 ___
 
 
-#### Reading papers
+### Reading papers
 In your academic carreer you will read many scientific papers. Publishing scientific papers in journals is the primary way for academics to broadcast their research to the world. Papers have a rather iconic layout and knowing how to quickly read a paper to get an idea of the research and findings and how to read a paper thoroughly is key to extracting knowledge from scientific papers. I will briefly point out the most common sections of a paper and what information to get from it.
 
 * Title - at the top of the paper you can read the title and the authors. The title is usually descriptive enough to immediately understand what the research is about. 
@@ -66,7 +62,7 @@ So essentially, read the paper from the ends inward for increasingly specific in
 
 ___
 
-#### Writing papers
+### Writing papers
 In this section I will give some resoures that can help you write better papers. You will write many scientific reports and papers during your carreer at University, so it is good to have them look professional and read like some genius PhD wrote it. 
 
 Scientific papers are written in the context of solving a problem. When writing your paper always think back to the problem you wanted to solve. You can assume the reader has some background knowledge on the topic; for example, if you write a paper about a new smart algorithm to control traffic lights at intersections, you can assume the reader knows what an algorithm is. 
@@ -92,7 +88,7 @@ Some general writing tips:
 
 ___
 
-#### Plagiarism
+### Plagiarism
 Plagiarism is copying other people's work without mentioning the source (and thereby portraying it as your own). Plagiarism is obviously not allowed, and is dealt with strictly at University. Some examples of plagiarism are:
 
 * Handing in someone else's assignment as your own (or compying large parts);
@@ -105,7 +101,7 @@ Just stay away from the shady grey areas and you will be fine. Plagiarism is dea
 
 ___
 
-#### Group projects
+### Group projects
 In the AI bachelor (and Master alike) you will often work on projects or assignments in groups. Some assignments you will do with one peer, while some larger projects you make work with 5 other students. 
 
 As you may expect, there might sometimes be _that person_ that is slacking off and doesn't do their fair share of the work. There will also sometimes be _that person_ who tries to do everything, managing the whole project leaving nothing much to be done. Maybe _you_ are one of these types (more likely the latter than the former, given you are reading this). Regardless of others, always try to contribute to the project fairly and equally. If a group member is _really_ slacking, there is always the opportunity to talk about this with the professor or [teaching assistant](#teaching-assistancy) for the course.
@@ -114,7 +110,7 @@ As you may expect, there might sometimes be _that person_ that is slacking off a
 
 ___
 
-#### Presenting
+### Presenting
 Yes, presenting. A casual talk for some and the bane of existance for others. In university you will present in quite a lot of courses. Sometimes you give a presentation by yourself about some research you may have done (for example, research methods courses and theses presentations), but more often you will give presentation is a group about a project you worked on. 
 
 If you are someone that cannot stand presenting, I can only say it gets easier. I never liked presenting but the more you do it, the less awkward it becomes and the less nervous you get beforehand. 
@@ -133,7 +129,7 @@ You may find [a more elaborate guide](https://www.skillsyouneed.com/present/pres
 
 ___
 
-#### Exams and studying
+### Exams and studying
 A large part of your final grades will be exam grades, so it useful to know how to pass an exam. You will often also be graded on your projects and assignments, but if a course has an exam, you can be confident it contributes a large amount to your final course grade.
 
 When you enroll for a course, most of the time you are automatically enrolled for the exam, but do you self a favor and double check if you are enrolled for the exam on [OSIRIS](https://ru.osiris-student.nl/#/home), see the section [online services](#online-services). If you are not enrolled you are out of luck and will have to take the resit. If you fail an exam, or want to take the resit for any other reason, you will always have to enroll for the resit explicitly!
@@ -155,7 +151,7 @@ It is also very useful to study in a group or with a friend. By explaining a con
 
 ___
 
-#### Following lectures
+### Following lectures
 A large part of your week will be filled with lectures. In lectures, the professor will hold what looks like a presentation about the topic of that lecture. Regular lectures are 90 minutes, with a 15 minute break half way through. During the lectures, you can often just interrupt the lecturer to ask questions by raising your hand.
 
 Most lectures are not mandatory but it is smart to go anyway because the professor will say much more than just the keywords that you can read from the slides at home. You also get to ask questions. In my experience, most of the time, you will spend more time trying to figure out the lecture contents by yourself looking at the slides than the 90 minutes the lecture takes. Also, you are paying for it so you might as well go. If you really feel you don't get much out of the lectures then by all means you can stay home and study the topic by yourself; I have done so plenty of times.
@@ -168,7 +164,7 @@ How you take in the content of the lecture is up to you. Some people take notes 
 
 ___
 
-#### Online services
+### Online services
 You will use a number of online services given to you by Radboud very often. I will list them here.
 
 **Brightspace**
@@ -195,7 +191,7 @@ With your student mail you can get access to some [cool extras from software com
 
 ___
 
-#### Buying textbooks
+### Buying textbooks
 WAIT! don't just blindly buy any textbook a course page tells you to buy. First visit the first lecture to see if it is actually required, ask the professor if he doesn't talk about it. Secondly, for many textbooks you can find a PDF online somewhere. Just google the textbook name, authors and "PDF" and look around if you find it.
 
 If you can't find a textbook online, you can often [buy it with a discount](https://svcognac.nl/study/books) from the [Cognac website](Tools.md#cognac-website). Or buy it second hand from other students.
@@ -204,32 +200,32 @@ If you can't find a textbook online, you can often [buy it with a discount](http
 
 ___
 
-#### Student advisor
+### Student advisor
 
 
 ###### [Back to top](Tips.md)
 
 ___
 
-#### Courses you dislike
+### Courses you dislike
 
 ###### [Back to top](Tips.md)
 
 ___
 
-#### Teaching assistancy
+### Teaching assistancy
 
 ###### [Back to top](Tips.md)
 
 ___
 
-#### Student mail extras
+### Student mail extras
 
 ###### [Back to top](Tips.md)
 
 ___
 
-#### Operating systems
+### Operating systems
 
 ###### [Back to top](Tips.md)
 
