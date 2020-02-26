@@ -128,26 +128,26 @@ Recursion is a useful programming tool, but can be quite tricky. Recursion is de
 <details>
 	<summary>Example in java</summary>
 
-	```java
-	public int factorial(int n){      
-	      if (n == 1)      
-	        return 1;      
-	      else      
-	        return(n * factorial(n-1));      
-	}  
-	```
+```java
+public int factorial(int n){      
+      if (n == 1)      
+        return 1;      
+      else      
+        return(n * factorial(n-1));      
+}  
+```
 </details>
 
 <details>
 	<summary>Example in python</summary>
 
-	```python
-	def factorial(n):
-		if n==1:
-			return 1
-		else:
-			return n * factorial(n-1)
-	```
+```python
+def factorial(n):
+	if n==1:
+		return 1
+	else:
+		return n * factorial(n-1)
+```
 </details>
 
 
