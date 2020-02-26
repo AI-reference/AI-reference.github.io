@@ -6,21 +6,42 @@ On this page I will give some tips and tricks that are applicable in the bachelo
 
 ___
 
-* [Reading papers](#reading-papers)
-* [Writing papers](#writing-papers)
-* [Plagiarism](#plagiarism)
-* [Group projects](#group-projects)
-* [Presenting](#presenting)
-* [Exams and studying](#exams-and-studying)
-* [Following lectures](#following-lectures)
-* [Buying text books](#buying-text-books)
-* [Student advisor](#student-advisor)
-* [Courses you dislike](#courses-you-dislike)
-* [Teaching assistancy](#teaching-assistancy)
-* [Student mail extras](#student-mail-extras)
-* [Operating Systems](#operating-systems)
+1. [CognAC](#cognac)
+2. [Reading papers](#reading-papers)
+3. [Writing papers](#writing-papers)
+4. [Plagiarism](#plagiarism)
+5. [Group projects](#group-projects)
+6. [Presenting](#presenting)
+7. [Exams and studying](#exams-and-studying)
+8. [Following lectures](#following-lectures)
+9. [Online services](#online-services)
+	* Brightspace
+	* OSIRIS
+	* Personal schedule
+	* Email
+10. [Buying text books](#buying-textbooks)
+11. [Student advisor](#student-advisor)
+12. [Courses you dislike](#courses-you-dislike)
+13. [Teaching assistancy](#teaching-assistancy)
+14. [Student mail extras](#student-mail-extras)
+15. [Operating Systems](#operating-systems)
 
 ___
+
+#### CognAC
+[CognAC](https://svcognac.nl) is the study association for Artificial Intelligence at Radboud University. You should definitely join, since the contribution is very cheap and you get so much out of it.
+
+CognAC hosts tons of fun events for AI students every week, you can easily enroll on the website if needed. CognAC also offer 15% off textbooks via their website. If you have the time you can join a committee (of which there are so many), like the Activities committee, City Trip committee, First Years committee, and more organizational ones such as the Website committee, Audit committee and Board Application committee.
+
+CognAC also hosts workshops with real-world companies; a good way to broaden your network, and workshops on bachelor courses. For example, the association hosted a recap workshop about one of the programming courses last year. 
+
+Often you can visit lunch lectures hosted by CognAC where someone will give a small lecture (maybe someone from a company, or a Master student about their research). Lunch is often provided (free) at these lectures.
+
+Going to CognAC events is the easiest way to make friends and get to know other AI students (not just first-years). It's a no-brainer.
+
+###### [Back to top](Tips.md)
+___
+
 
 #### Reading papers
 In your academic carreer you will read many scientific papers. Publishing scientific papers in journals is the primary way for academics to broadcast their research to the world. Papers have a rather iconic layout and knowing how to quickly read a paper to get an idea of the research and findings and how to read a paper thoroughly is key to extracting knowledge from scientific papers. I will briefly point out the most common sections of a paper and what information to get from it.
@@ -67,6 +88,10 @@ Some general writing tips:
 * Proofread your document well to prevent any easy-to-spot grammar errors or typos.
 * Save your final document as PDF, don't hand in file formats from editors (like word's .docx files)
 
+###### [Back to top](Tips.md)
+
+___
+
 #### Plagiarism
 Plagiarism is copying other people's work without mentioning the source (and thereby portraying it as your own). Plagiarism is obviously not allowed, and is dealt with strictly at University. Some examples of plagiarism are:
 
@@ -74,43 +99,113 @@ Plagiarism is copying other people's work without mentioning the source (and the
 * using other people's resources without mentioning the source;
 * Copy text from other research papers without mentioning the source (transcribing in your own words included)
 
-Just stay away from the shady grey areas and you will be fine. Plagiarism is dealt with by the exam board and can lead to some drastic measures. 
+Just stay away from the shady grey areas and you will be fine. Plagiarism is dealt with by the exam board and can lead to some drastic measures. Most assignment hand-ins are checked by an automatic plagiarism detection program.
 
 ###### [Back to top](Tips.md)
 
 ___
 
 #### Group projects
+In the AI bachelor (and Master alike) you will often work on projects or assignments in groups. Some assignments you will do with one peer, while some larger projects you make work with 5 other students. 
+
+As you may expect, there might sometimes be _that person_ that is slacking off and doesn't do their fair share of the work. There will also sometimes be _that person_ who tries to do everything, managing the whole project leaving nothing much to be done. Maybe _you_ are one of these types (more likely the latter than the former, given you are reading this). Regardless of others, always try to contribute to the project fairly and equally. If a group member is _really_ slacking, there is always the opportunity to talk about this with the professor or [teaching assistant](#teaching-assistancy) for the course.
 
 ###### [Back to top](Tips.md)
 
 ___
 
 #### Presenting
+Yes, presenting. A casual talk for some and the bane of existance for others. In university you will present in quite a lot of courses. Sometimes you give a presentation by yourself about some research you may have done (for example, research methods courses and theses presentations), but more often you will give presentation is a group about a project you worked on. 
+
+If you are someone that cannot stand presenting, I can only say it gets easier. I never liked presenting but the more you do it, the less awkward it becomes and the less nervous you get beforehand. 
+
+Start your presentation off by greeting your audience and telling them what you will be presenting, and give them a rough outline of the presentation.
+
+_Hello everyone, my name is Thijs and I will be presenting the resource page for AI students that I made. First I will talk about the contents of the page, then I will show you how I built the webpage, and lastly I will give a scenario in which students may want to refer to the page._
+
+gradually go more in-depth into the topic as you present and end with a short summarization of your presentation, thank the audience for listening and give them the chance to ask questions. 
+
+_To summarize: I talked about ... and ... and ... Thank you for listening, are there any questions?_
+
+You may find [a more elaborate guide](https://www.skillsyouneed.com/present/presentation-tips.html) useful too. But always take these guides with a grain of salt. There is no one golden template for every presentation, just mold it to where it fits the presentation style and length it should be.
 
 ###### [Back to top](Tips.md)
 
 ___
 
 #### Exams and studying
+A large part of your final grades will be exam grades, so it useful to know how to pass an exam. You will often also be graded on your projects and assignments, but if a course has an exam, you can be confident it contributes a large amount to your final course grade.
+
+When you enroll for a course, most of the time you are automatically enrolled for the exam, but do you self a favor and double check if you are enrolled for the exam on [OSIRIS](https://ru.osiris-student.nl/#/home), see the section [online services](#online-services). If you are not enrolled you are out of luck and will have to take the resit. If you fail an exam, or want to take the resit for any other reason, you will always have to enroll for the resit explicitly!
+
+Typical exams are 3 hours long and are closed-book. Of course, many courses will vary on that but it does form a rough estimate. Everyone takes exams differently, some are really quick, taking just half of the available time, while other steadfastly keep working on their exam and looking it over until the time is up. I can't tell you how to do your exams, do whatever works best for you.
+
+You should get to the exam location about 15 minutes before the exam starts to be sure you are on time and at the right place. Once inside, you will first have to report yourself present at the front of the room. A surveillant will check your **legal means of identification** such as ID card, passport, etc., and check your name on the list of enrolled students. Don't forget your ID. You can then take a seat. Leave your bag and phone (off / on airplane mode) at the front of the room. You will then get your exam.
+
+Exams for programming courses will likely be on computers. The exam will contain a very specifc guide on how to do everything properly in that case.
+
+**Studying**
+Everyone is different when it comes to studying for exams. Some people spend dozens of hours and start weeks before the exam, while other study for a couple hours a few days before (me). The best way of studying is of course to keep a good understanding of all the topics discussed in the course while the course is going. If you understand all concepts, you won't have to study as much, just do some revision. 
+
+I study by summarizing the lecture slides (with pen and paper) and studying those notes. I also watch Youtube videos about topics I don't understand just by looking at the lecture slides. The lecture slides are almost always avaiable on the course page on [Brightspace](https://brightspace.ru.nl/), see the section [online services](#online-services). Sometimes there is also a practice exam made available. This is often the exam of previous years. This is a great resource to study from as you can see what kind of questions the exam will contain, how long it is, and you can practice by answering questions.
+
+It is also very useful to study in a group or with a friend. By explaining a concept to someone else you are much more likely to remember it than by just reading about it. Discussing the topics and figuring stuff out together makes it more fun too. I often studied for myself first, and if someone was up for it discuss the course matter with a friend just to see if we are on the same page about everything.
 
 ###### [Back to top](Tips.md)
 
 ___
 
 #### Following lectures
+A large part of your week will be filled with lectures. In lectures, the professor will hold what looks like a presentation about the topic of that lecture. Regular lectures are 90 minutes, with a 15 minute break half way through. During the lectures, you can often just interrupt the lecturer to ask questions by raising your hand.
+
+Most lectures are not mandatory but it is smart to go anyway because the professor will say much more than just the keywords that you can read from the slides at home. You also get to ask questions. In my experience, most of the time, you will spend more time trying to figure out the lecture contents by yourself looking at the slides than the 90 minutes the lecture takes. Also, you are paying for it so you might as well go. If you really feel you don't get much out of the lectures then by all means you can stay home and study the topic by yourself; I have done so plenty of times.
+
+Some lectures might be recorded and able to be watched via a link in Brightspace. Don't see this as an excuse not to go to the lecture because _you will watch the lecture later_, spoiler: most of the time you won't. It is useful for studying too, as you can just go back and watch the lecture about a topic you don't understand.
+
+How you take in the content of the lecture is up to you. Some people take notes during the lecture, some people are avidly transcribing the lecture word for word, while others still just watch and listen. Do whatever work for you to take in the content as well as possible. I like to just sit and listen to the lecturer and really pay attention and make sure I understand the topic. Understanding the topic is more useful than having the right words on a paper but not knowing what they mean.
 
 ###### [Back to top](Tips.md)
 
 ___
 
-#### Buying text books
+#### Online services
+You will use a number of online services given to you by Radboud very often. I will list them here.
+
+**Brightspace**
+[Brightspace](https://brightspace.ru.nl/) is the online page that hosts all your course's contents, your assignments, grades, groups, and more. On Brightspace you can see you course list, and by clicking on a course you get to the corresponding course page. On a course page you can find all the resources from that course like lectures slides, reading material, assignments, etc. You hand in your assignments on Brightspace most of the time. You teacher will post your grades on Brightspace.
+
+**OSIRIS**
+[OSIRIS](https://ru.osiris-student.nl/) is the website where all your official study details are stored. On OSIRIS you can check your study progress (Credits scored, courses completed), official grades, calendar, course and exam registrations, and notes from your [student advisor](#student-advisor). 
+
+On the progress page you can see the courses and corresponding credit you completed, failed and are yet to complete. You can also print a study progress overview with average grades and the like.
+
+The grades shown on OSIRIS are the final grades for your courses, make sure these are correct because the grades on OSIRIS will be referenced on your diploma. 
+
+On the Register page, you can register for courses and exams. Make sure you enroll before the courses begin (will be more lenient at the start of your first year). Registering for courses of the Science Faculty has a stricter deadline, check this. You can technically still enroll when a course has started (I have before); just email the professor of that course to ask for permission. Registering for a course usually automatically registers you for the exams and assignments of that course, but make sure you are registered before you go to take the exam. 
+
+**Personal schedule**
+On your [personal schedule](https://persoonlijkrooster.ru.nl) you can see your schedule with all the lectures, work groups, lab sessions, exams, etc. If you don't see a course, you can add it on the right side with "+ Add timetable" and searching for a course. You can synchronize this calendar with any existing calendar you already may use. I highly recommend this, sine you don't have to check this website every time you want to check your schedule. Do this by click the button with two arrows on the right that says "Connect calendar" when you hover over it.
+
+**Student email**
+You will automatically get a student email address in something like the following format: firstname.lastname@student.ru.nl. Yours may be a little different if there are more people with your name. You can [access your mailbox online](https://mail.ru.nl), or connect it to any email client you use (preferred). You should keep an eye on this mailbox since you might get important announcements or notifications on it. You can also create a rule to forward any email to your current email address, but I prefer just connecting the email address to your email client so you can reply using your student mail.
+
+With your student mail you can get access to some [cool extras from software companies](#student-mail-extras)
+
+###### [Back to top](Tips.md)
+
+___
+
+#### Buying textbooks
+WAIT! don't just blindly buy any textbook a course page tells you to buy. First visit the first lecture to see if it is actually required, ask the professor if he doesn't talk about it. Secondly, for many textbooks you can find a PDF online somewhere. Just google the textbook name, authors and "PDF" and look around if you find it.
+
+If you can't find a textbook online, you can often [buy it with a discount](https://svcognac.nl/study/books) from the [Cognac website](Tools.md#cognac-website). Or buy it second hand from other students.
 
 ###### [Back to top](Tips.md)
 
 ___
 
 #### Student advisor
+
 
 ###### [Back to top](Tips.md)
 
