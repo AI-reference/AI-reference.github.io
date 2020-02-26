@@ -2,8 +2,9 @@
 title: Programming
 ---
 
-##### On this page I will give some basic programming skills and information.
-##### If you want to try to code along, first take a look at the IDEs section in the [Tools](Tools.md) section.
+On this page I will give some basic programming skills and information.
+If you want to try to code along, first take a look at the IDEs section on the [Tools](Tools.md#ides) page.
+
 ___
 
 * [Languages ](#languages)
@@ -25,8 +26,16 @@ Your will start writing code in [Java](#learn-java), a well-established classic 
 
 The other very prominent programming language you will use in AI is [Python](#learn-python). Python in the most popular programming language (recently surpassing Java). Python is a high-level programming language which was originally a scripting language but grew out to be a fully capable programming language. Python is great.
 
+###### [Back to top](Programming.md)
+
+___
+
 #### Programming styles
 There are different styles of programming, each with their own use. Some of the styles you will learn in the bachelor: imperative programming (writing coded statements that change the state of your program), Object Oriented programming (defining your program in the context of objects of different classes with their own properties), functional programming (defining functions that behave the same every time you call them). I won’t go into depth into these different styles of programming, you learn these in your first programming courses. 
+
+###### [Back to top](Programming.md)
+
+___
 
 #### Data types
 In programming, we work a lot with variables. Variables are names we can give to pieces of information so we can easily manipulate it. For example we can say `potato = 19 * grape`. Now we can use the variable `potato` to refer to the value `19 * grape`, where `grape` is another variable. 
@@ -53,6 +62,10 @@ This is called _dynamic typing_.
 
 Static typing allows the compiler to check for some obvious bugs before running the code, for example multipling a String by -3.67. These errors can be spotted by the editor while coding, which prevents you from having to debug your program from simple type errors. Dynamic typing is nice because it allows the programmer to write code quickly and change a variable however they want to. They do have to be more careful with writng their code to make sure all of it fits together nicely.
 
+###### [Back to top](Programming.md)
+
+___
+
 #### If Else
 Often, we want some piece of code to run only if a condition is true, and maybe another piece if it isn't true. For example, if the variable `name` is equal to "Thijs", we can run a certain piece of code, and something else if this is not the case.
 
@@ -78,6 +91,10 @@ if(condition1 || condition2)
 ```
 Only one of the conditions has to resolve to true.
 
+###### [Back to top](Programming.md)
+
+___
+
 #### Loops
 To execute the same piece of code multiple times after each other, you don't have to copy this code x times. You can write a _loop_ which tells the computer for how many times, or for how long this code should be executed. We generally distinguish two different kind of loops, a for-loop and a while-loop. You can use either in any case, but sometimes one is more useful and clear than the other. A for-loop (in java) generally consists of three parts: initialization, stop condition, iteration step. Here is an example of a for-loop in java:
 ```java
@@ -94,6 +111,10 @@ while(!isFinished()){
 }
 ```
 In the while-loop, the condition is once again a boolean (true or false), and the block of code keeps repeating until this condition is false. In the example, we continue running the code until the _function_ `isFinished` return True. The exclamation point is the negation operator, and it means to reverse the boolean that comes after it. `!true == false`. Functions will be discussed in the next section.
+
+###### [Back to top](Programming.md)
+
+___
 
 #### Functions and methods
 A program consists of command you write from the computer to execute. A way to avoid having to write the same piece of code over and over again we can write a function (it's called a method if it belongs to a specific class). In a function we write the piece of code and by calling that function the computer runs that piece of code. A function can take _parameters_, which are pieces of data you can give your function which it can then manipulate. Here is an example of a function in java.
@@ -122,6 +143,10 @@ System.out.println(numDivisors(1050));
 System.out.println(numDivisors(6));
 ```
 
+###### [Back to top](Programming.md)
+
+___
+
 #### Recursion
 Recursion is a useful programming tool, but can be quite tricky. Recursion is defined by calling a function in the body of that same function. This can lead to some very interesting behavior, but is also an easy source for tricky bugs. A recursive function should have some way to stop before calling the function again in its function body, otherwise it would call that function endlessly over and over again, crashing the program. This stopping criterion is called the base case. Let's first introduce an example.
 
@@ -149,6 +174,9 @@ Given is the function for the mathematical expression factorial (n\*(n-1)\*...\*
 
 We use this definition to define a recursive function that computes the factorial of any given number. The else part of this function computes n * the output of this function with parameter n-1. this continues all the way down until we get to n=1. In this trivial case, 1! = 1, so we return 1. This returned value can now be used in the computation of the function that called it, which value can then be returned to again the function that called it, until we get to the first time we called the function. For `factorial(5)` we basically compute `5 * (4 * (3 * (2 * 1)))`. Often, the use of recursion can be substituted by a loop of some sort, but sometimes recursion really is the better choice.
 
+###### [Back to top](Programming.md)
+
+___
 
 #### Learn java
 In this section I will provide links to basic java lessons. You will be taught java at the very start of the bachelor too. This section can also function as some extra resources if you don't understand a particular concept in java.
@@ -159,6 +187,10 @@ In this section I will provide links to basic java lessons. You will be taught j
 * [Learn java online](https://www.learnjavaonline.org) is a free website where you can learn to write java code and run it in the browser, quite cool!
 * Any concepts you learn in the first courses on programming you can find many good tutorials for on Youtube. Really do watch some Youtube videos if you don't understand a topic, they really really help.
 
+###### [Back to top](Programming.md)
+
+___
+
 #### Learn python
 Here I will provide some links to learn python, the most popular programming language currently. You gradually code more and more in python as you advance in your bachelor since python has many great machine learning libraries and works really well with AI concepts.
 
@@ -167,6 +199,11 @@ Here I will provide some links to learn python, the most popular programming lan
 * [Numpy video](https://www.youtube.com/watch?v=QUT1VHiLmmI). One of the most used python libraries is Numpy. It contains code for all things numbers, and especially arrays. Try to learn this when doing your linear algebra course and try to find some python code to do the operations you learn there.
 * [Codecademy](https://www.codecademy.com/learn/learn-python-3) also has a Python course, but sadly it's only available to pro accounts. If you do want to get serious with codecademy, you can consider it. It has many many great courses on loads of topics, concepts and programming languages. It's quite expensive though. I wouldn't buy a pro account if you are planning to do just one or two courses.
 
+###### [Back to top](Programming.md)
+
+___
+
+[Back to home](index.md)
 
 
 

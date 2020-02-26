@@ -9,12 +9,12 @@ On this reference page I will give tips, resources and links to useful content f
 ___
 
 This Resource page consists of:
-* Useful [tools](Tools.md) you will profit from in your study;
-* [Programming basics](Programming.md);
-* [Information about Nijmegen](Nijmegen.md);
-* [Information about the campus](Campus.md);
-* [Course-specific resources](Courses.md);
-* General [tips and tricks](Tips.md).
+* [Useful tools](Tools.md)
+* [Programming basics](Programming.md)
+* [Information about Nijmegen](Nijmegen.md)
+* [Information about the campus](Campus.md)
+* [Course-specific resources](Courses.md)
+* [General tips and tricks](Tips.md)
 
 ___
 

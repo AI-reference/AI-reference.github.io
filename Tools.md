@@ -2,7 +2,6 @@
 title: Tools
 ---
 
-##### Useful tools
 On this page I will describe some (software) tools that are useful during the AI bachelor and as a computer scientist in general.
 
 ___
@@ -126,13 +125,6 @@ Things the terminal is used for the most include:
 * Installing python packages with pip. Pip is the standard python package-management system. If you need to download a python package, chances are high you will do it through pip. for example, to install the machine learning library scikit-learn with loads of machine learning models, use the command `pip install scikit-learn`. 
 
 In conclusion, the terminal looks like a scary hacker program, but it is very useful in many scenarios and you can see it as just a different way to interact with your computer.
-
-###### [Back to top](Tools.md)
-
-___
-
-#### Writing papers
-In this section I will give some resoures that can help you write better papers. You will write many scientific reports and papers during your carreer at University, so it is good to have them look professional and read like some genius PhD wrote it. For tips on how to effectively **read** papers, look at the corresponding section on the [Tips](Tips.md) page.
 
 ###### [Back to top](Tools.md)
 
