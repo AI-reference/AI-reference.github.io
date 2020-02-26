@@ -14,3 +14,6 @@ header_pages:
   - Courses.md
   - Campus.md
   - Nijmegen.md
+
+plugins:
+  - jekyll-seo-tag

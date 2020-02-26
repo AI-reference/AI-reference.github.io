@@ -1,0 +1,184 @@
+I"�<<p>On this page I will describe some (software) tools that are useful during the AI bachelor and as a computer scientist in general.</p>
+
+<hr />
+
+<ul>
+  <li><a href="#programming-requirements">Programming requirements</a></li>
+  <li><a href="#ides">IDEs</a></li>
+  <li><a href="#text-editors">Text editors</a></li>
+  <li><a href="#git">Git</a></li>
+  <li><a href="#github">Github</a></li>
+  <li><a href="#terminal">Terminal</a></li>
+  <li><a href="#writing-papers">Writing papers</a></li>
+  <li><a href="#latex">LaTeX</a></li>
+  <li><a href="#regex">Regex</a></li>
+  <li><a href="#data-storage">Data storage</a></li>
+  <li><a href="#cognac-website">Cognac website</a></li>
+  <li><a href="#linkedin">LinkedIn</a></li>
+  <li><a href="#youtube">Youtube</a></li>
+</ul>
+
+<hr />
+
+<h3 id="programming-requirements">Programming requirements</h3>
+<p>To be able to write code, you need a few things…</p>
+
+<ul>
+  <li>Firstly, logically, you need a computer (preferably your own laptop). It can be any laptop of any operating system; the programs you will write in your bachelor will not be so tough on your hardware, so any decent laptop will do.</li>
+  <li>Programming language (development kit).
+    <ul>
+      <li>Python: to write python code you need Python. many computers already have python installed. You can check this by opening a <a href="#terminal">terminal</a> and typing <code class="highlighter-rouge">python --version</code>. If it shows a version (3.*) you’re good to go. Otherwise <a href="https://www.python.org">download python here</a>.</li>
+      <li>Java: to code java you need the java development kit. Here you can <a href="https://www.oracle.com/java/technologies/javase-jdk13-downloads.html">download</a> the JDK version 13 (currently the latest)</li>
+    </ul>
+  </li>
+  <li>An <a href="#ides">IDE</a>.</li>
+  <li>An interest and motivation for programming. Programming is much more than just learning the syntax of a language. It is a way of thinking. You will learn the mindset, and the tools you need to solve problems. If you program long enough, you will start to think of ways to solve problems in real-life by programming a solution, which is awesome.</li>
+</ul>
+
+<h6 id="back-to-top"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="ides">IDEs</h3>
+<p>IDEs (Integrated Development Environment) are the programs in which you are going to write most of your code. Most IDEs you will use are specific to the programming language you will write in it. There exist IDEs in which you can write code in multiple languages, but I won’t discuss those here, you will likely not use any.</p>
+
+<p><strong>For java:</strong></p>
+
+<p>The first programming language you will write code in is java. There are many IDEs for java, and you will likely be taught to use the IDE your professor prefers (or has always used and is refusing to change). I will list some IDEs with links to their download page, and my opinion of them</p>
+
+<ul>
+  <li><a href="https://www.eclipse.org">Eclipse</a> - probably your first recommended IDE by AI professors. It’s okay. (<a href="https://www.youtube.com/playlist?list=PLEAQNNR8IlB5R_qZvrFH0g8wC_FLWK9si">Eclipse tutorial playlist</a>)</li>
+  <li><a href="https://netbeans.apache.org">Netbeans</a> - probably the second recommended IDE by professors. It’s bad, be warned for many troubles with this IDE. (<a href="https://www.youtube.com/watch?v=K3twuFyPwkg">Netbeans tutorial</a>, the quality of this video is representative of a Netbeans experience. It’s an old video but Netbeans still looks exactly the same)</li>
+  <li><a href="https://www.jetbrains.com/idea/">IntelliJ</a> - the absolute best IDE in my opinion; shockingly not recommended in any course I followed in the bachlor. IntelliJ is an IDE by the company <a href="https://www.jetbrains.com">JetBrains</a>. They create the best IDE for many programming languages. (<a href="https://www.youtube.com/watch?v=c0efB_CKOYo">IntelliJ startup</a>)</li>
+</ul>
+
+<p><strong>For python:</strong></p>
+
+<p>You will also use the python programming language in your bachelor. For python, you have three good options to write code in.</p>
+
+<ul>
+  <li><a href="https://www.jetbrains.com/pycharm/">PyCharm</a> is my recommended IDE for python programming. It is from the same company as IntelliJ (JetBrains) and works very similarly. You will want to use a proper IDE like this when writing larger programs or if you just like the help an IDE can offer during coding. (<a href="https://www.youtube.com/watch?v=56bPIGf4us0">Quick tutorial</a>)</li>
+  <li><a href="#text-editors">Regular text editor</a>. You can also write code in a regular text editor and run it in the command line (<a href="#terminal">terminal</a>). Simply write your code, save it as name.py and run it in the terminal with <code class="highlighter-rouge">python name.py</code>. This is only recommended for small programs. For larger programs you should use a proper IDE.</li>
+  <li><a href="https://jupyter.org/index.html">Jupyter Notebook</a>. Jupyter notebooks are amazing to develop code which you want to run piece by piece. You can create <em>cells</em> in which you write your code and you can run your cells one after the other. The python <em>interpreter</em> will keep in memory all code that has been ran before so you can split your program over multiple blocks. This is useful for example when loading a lot of data or doing a computation that takes a long time, and doing various things with it after that. Instead of running the whole code again every time, you can just run the part where you work with the data and load it once at the start of your session. <a href="https://www.youtube.com/watch?v=HW29067qVWk">Tutorial</a>. (I recommend pip install instead of conda install if you don’t already have the whole conda setup installed).</li>
+</ul>
+
+<p>With your student-email (…@student.ru.nl) you can get the professional versions of JetBrains IDEs for free <a href="https://www.jetbrains.com/student/">here</a>. The free versions are fine too, but why not be fancy.</p>
+
+<h6 id="back-to-top-1"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="text-editors">text editors</h3>
+<p>Often you may want to use a simple text editor. To open files to quickly see the contents without opening the complete IDE for example. Or when quickly writing some easy code. I recommend <a href="https://www.sublimetext.com">Sublime Text</a>. It’s a great text editor and contains markup for virtually all coding languages. You will sometimes be prompted to buy a licence, but you can ignore that, it’ll keep working.</p>
+
+<h6 id="back-to-top-2"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="git">Git</h3>
+<p>Sometimes you will be working on a large project and accidentally write a bug. Now you can’t find the bug and it’s messing everything up. All you want is to just go back to where everything worked again but you saved over all your files :(. The solution for this is a Version Control System, like Git.</p>
+
+<p>With git, you create a <em>repository</em> in which you develop your program. Every time you feel like you wrote some changes to your code (or whatever is in your repository) you can <em>commit</em> these changes, and git will create a snapshot of that current version of the repository. Git keeps track of all the commits you make in a repository and you can always go back to previous commits to take a look, or restore your project to a previous commit. You make your changes on a so called <em>branch</em>. If you want to try something new and you’re not quite sure if it will work out, you can create a new branch and work on that branch, creating commits like normally. If you are satisfied with your change, you can <em>merge</em> the branch on which you have been making changed with the <em>master branch</em>. This is a great way to work on programs without losing any previous saves. Check if you have git by typing <code class="highlighter-rouge">git --version</code> in your terminal, or <a href="https://git-scm.com/downloads">download git</a>.</p>
+
+<p>Tutorials on git will be given in the next section on <a href="#github">GitHub</a>, a website that can host your repositories.</p>
+
+<h6 id="back-to-top-3"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="github">GitHub</h3>
+<p><a href="https://github.com">GitHub</a> is an amazing website on which you can store your project in git repositories. Repositories (repos) on Github are public or private, public repos can been seen by anyone, and private repos can only be seen by you and your collaborators. Collaborators? Yes! You can work together on a project in a repository, meaning you can all make changes and commit these to the repository.</p>
+
+<p>People make changes to the project and commit these changes locally and after they are done they can <em>push</em> these changes to the repository host (github) this is as simple as writing <code class="highlighter-rouge">git push</code> in the terminal in the folder of your project. Other collaboraters can get these changes on their computer by writing <code class="highlighter-rouge">git pull</code>, pulling the changes from the repository host (Github) to their own computer!</p>
+
+<p>You have to pull all changes so your project is up-to-date locally before you can push any changes. It may be possible that you and another team mate are working on the same file. In that case, Git is often smart enough to <em>merge</em> the changes together. But in the case you both changed things in the same place, you will get a <em>merge conflic</em> (you will get these for sure and get very annoyed with them). You can resolve these conflicts by opening the file in which there is a conflict and choosing one of the two versions (it will say where in the file).</p>
+
+<p>Getting familiar with git and used to all the syntax may take some effort, but it is definitely worth it. You will be using it all throughout your study, and likely later in your job too.</p>
+
+<p>Git commands are executed in the terminal, at the location of the git repository, but many <a href="#ides">IDEs</a> and text editors offer built-in git support. In the IDE you can simply push a button to pull changes, make commits, and push them to the repository. JetBrain’s IDEs have this option and it works really well.</p>
+
+<p>GitHub also has a desktop client if you are deadly afraid of the <a href="#terminal">terminal</a>, but I recommend using the terminal commands because you will know for sure what is going on.</p>
+
+<p>You will definitely need some tutorials to get the hang of the basics of a workflow with a version control system. here are some useful tutorial links.</p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc">Git &amp; GitHub Crash Course For Beginners</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0fKg7e37bQE">Github Tutorial For Beginners</a></li>
+  <li><a href="https://www.youtube.com/watch?v=USjZcfj8yxE">Learn Git In 15 Minutes</a></li>
+</ul>
+
+<p>Once again, you can get a <a href="https://education.github.com/students">GitHub pro account for free</a> with your student email address (…@student.ru.nl). A pro GitHub account allows for unlimited private repositories, so you can store the projects you are working on for your courses on there without anyone seeing them and being able to copy from you.</p>
+
+<p>You can also create websites and blogs easily with GitHub, like this website!!! It is built completely automatically and is super easy. <a href="https://pages.github.com">Learn more</a></p>
+
+<h6 id="back-to-top-4"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="terminal">Terminal</h3>
+<p><img src="terminal.png" alt="terminal image" /></p>
+
+<p>The terminal (or command prompt on Windows, I will call it terminal) is a user interface to your computer that is different from the graphical user interface you are used to. We now view everything that happens on our computer in application windows with nice graphics. Opening our documents folder happens just by clicking on it and seeing the files displayed with a preview image.</p>
+
+<p>The terminal is a command-line interface, in which users can interact with the computer system using commands. There are commands for opening programs, showing files in a particular folder, creating a new file, even downloading content from the internet. Pretty much anything concerning your operating system and file system can be done through the terminal.</p>
+
+<p>Knowing your way around a terminal is a useful skill that can be used in many situations. Some programs can <strong>only</strong> be accessed from the terminal, and many installations of software will happen in the terminal. You may at some point want to connect to a server or other computer, and only be presented with the terminal of that computer, no fancy graphical user interfaces.</p>
+
+<p>The most useful type of terminal (in my and many others’ opinion) is a Unix terminal. Unix is the underlying family of operating systems for Linux and MacOS systems. Consequently, a unix terminal is available by default on any Linux and Mac system. Simply open the app “terminal” and you are there. Windows on the other hand, has its own <em>command prompt (cmd)</em>. Most third-party app installation etc. can be done just fine in a Windows terminal, but if you want to be extra cool you can <a href="https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/">download and use a Unix terminal</a> on your Windows computer. To open the Windows command prompt, press the Windows key, type “cmd” and press enter.</p>
+
+<p>If you want you can learn how to navigate your computer with the terminal:</p>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=5XgBd6rjuDQ">Unix Terminal basics</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDV6SnbINlVUd0o2xT4JbMu">Windows command prompt tutorials</a></li>
+</ul>
+
+<p>Things the terminal is used for the most include:</p>
+<ul>
+  <li>Working with <a href="#git">Git</a>, the tutorials mentioned in the <a href="#github">GitHub</a> section explain how to use git with the terminal.</li>
+  <li>Installing python packages with pip. Pip is the standard python package-management system. If you need to download a python package, chances are high you will do it through pip. for example, to install the machine learning library scikit-learn with loads of machine learning models, use the command <code class="highlighter-rouge">pip install scikit-learn</code>.</li>
+</ul>
+
+<p>In conclusion, the terminal looks like a scary hacker program, but it is very useful in many scenarios and you can see it as just a different way to interact with your computer.</p>
+
+<h6 id="back-to-top-5"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="latex">LaTeX</h3>
+
+<h6 id="back-to-top-6"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="regex">Regex</h3>
+
+<h6 id="back-to-top-7"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="data-storage">Data storage</h3>
+
+<h6 id="back-to-top-8"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="cognac-website">Cognac website</h3>
+
+<h6 id="back-to-top-9"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="linkedin">LinkedIn</h3>
+
+<h6 id="back-to-top-10"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<h3 id="youtube">Youtube</h3>
+
+<h6 id="back-to-top-11"><a href="Tools.md">Back to top</a></h6>
+
+<hr />
+
+<p><a href="index.md">Back to home</a></p>
+:ET
