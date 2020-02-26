@@ -32,7 +32,7 @@ To be able to write code, you need a few things...
 * An [IDE](#ides).
 * An interest and motivation for programming. Programming is much more than just learning the syntax of a language. It is a way of thinking. You will learn the mindset, and the tools you need to solve problems. If you program long enough, you will start to think of ways to solve problems in real-life by programming a solution, which is awesome.
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
@@ -57,14 +57,14 @@ You will also use the python programming language in your bachelor. For python, 
 
 With your student-email (...@student.ru.nl) you can get the professional versions of JetBrains IDEs for free [here](https://www.jetbrains.com/student/). The free versions are fine too, but why not be fancy.
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
 #### text editors
 Often you may want to use a simple text editor. To open files to quickly see the contents without opening the complete IDE for example. Or when quickly writing some easy code. I recommend [Sublime Text](https://www.sublimetext.com). It's a great text editor and contains markup for virtually all coding languages. You will sometimes be prompted to buy a licence, but you can ignore that, it'll keep working.
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
@@ -75,7 +75,7 @@ With git, you create a _repository_ in which you develop your program. Every tim
 
 Tutorials on git will be given in the next section on [GitHub](#github), a website that can host your repositories.
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
@@ -101,7 +101,7 @@ Once again, you can get a [GitHub pro account for free](https://education.github
 
 You can also create websites and blogs easily with GitHub, like this website!!! It is built completely automatically and is super easy. [Learn more](https://pages.github.com)
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
@@ -127,44 +127,44 @@ Things the terminal is used for the most include:
 
 In conclusion, the terminal looks like a scary hacker program, but it is very useful in many scenarios and you can see it as just a different way to interact with your computer.
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
 #### Writing papers
 In this section I will give some resoures that can help you write better papers. You will write many scientific reports and papers during your carreer at University, so it is good to have them look professional and read like some genius PhD wrote it. For tips on how to effectively **read** papers, look at the corresponding section on the [Tips](Tips.md) page.
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
 #### LaTeX
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
 #### Data storage
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
 #### Cognac website
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
 #### LinkedIn
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
 #### Youtube
 
-[Back to top ^](#useful-tools)
+###### [Back to top](Tools.md)
 
 ___
 
