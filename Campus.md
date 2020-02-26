@@ -15,7 +15,12 @@ From the Nijmegen train station you have a couple of options:
 ___
 
 #### Map
+<details>
+<summary>Show map</summary>	
+
 ![Campus map](campus_map.jpeg)
+
+</details>
 ___
 
 #### Buildings
