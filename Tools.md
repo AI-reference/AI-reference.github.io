@@ -14,6 +14,7 @@ ___
 * [Terminal](#terminal)
 * [Writing papers](#writing-papers)
 * [LaTeX](#latex)
+* [Regex](#regex)
 * [Data storage](#data-storage)
 * [Cognac website](#cognac-website)
 * [LinkedIn](#linkedin)
@@ -21,7 +22,7 @@ ___
 
 ___
 
-#### Programming requirements
+###  Programming requirements
 To be able to write code, you need a few things...
 
 * Firstly, logically, you need a computer (preferably your own laptop). It can be any laptop of any operating system; the programs you will write in your bachelor will not be so tough on your hardware, so any decent laptop will do. 
@@ -35,7 +36,7 @@ To be able to write code, you need a few things...
 
 ___
 
-#### IDEs
+###  IDEs
 IDEs (Integrated Development Environment) are the programs in which you are going to write most of your code. Most IDEs you will use are specific to the programming language you will write in it. There exist IDEs in which you can write code in multiple languages, but I won't discuss those here, you will likely not use any.
 
 **For java:**
@@ -60,14 +61,14 @@ With your student-email (...@student.ru.nl) you can get the professional version
 
 ___
 
-#### text editors
+###  text editors
 Often you may want to use a simple text editor. To open files to quickly see the contents without opening the complete IDE for example. Or when quickly writing some easy code. I recommend [Sublime Text](https://www.sublimetext.com). It's a great text editor and contains markup for virtually all coding languages. You will sometimes be prompted to buy a licence, but you can ignore that, it'll keep working.
 
 ###### [Back to top](Tools.md)
 
 ___
 
-#### Git
+###  Git
 Sometimes you will be working on a large project and accidentally write a bug. Now you can't find the bug and it's messing everything up. All you want is to just go back to where everything worked again but you saved over all your files :(. The solution for this is a Version Control System, like Git. 
 
 With git, you create a _repository_ in which you develop your program. Every time you feel like you wrote some changes to your code (or whatever is in your repository) you can _commit_ these changes, and git will create a snapshot of that current version of the repository. Git keeps track of all the commits you make in a repository and you can always go back to previous commits to take a look, or restore your project to a previous commit. You make your changes on a so called _branch_. If you want to try something new and you're not quite sure if it will work out, you can create a new branch and work on that branch, creating commits like normally. If you are satisfied with your change, you can _merge_ the branch on which you have been making changed with the _master branch_. This is a great way to work on programs without losing any previous saves. Check if you have git by typing `git --version` in your terminal, or [download git](https://git-scm.com/downloads).
@@ -78,7 +79,7 @@ Tutorials on git will be given in the next section on [GitHub](#github), a websi
 
 ___
 
-#### GitHub
+###  GitHub
 [GitHub](https://github.com) is an amazing website on which you can store your project in git repositories. Repositories (repos) on Github are public or private, public repos can been seen by anyone, and private repos can only be seen by you and your collaborators. Collaborators? Yes! You can work together on a project in a repository, meaning you can all make changes and commit these to the repository. 
 
 People make changes to the project and commit these changes locally and after they are done they can _push_ these changes to the repository host (github) this is as simple as writing `git push` in the terminal in the folder of your project. Other collaboraters can get these changes on their computer by writing `git pull`, pulling the changes from the repository host (Github) to their own computer!
@@ -104,7 +105,7 @@ You can also create websites and blogs easily with GitHub, like this website!!! 
 
 ___
 
-#### Terminal
+###  Terminal
 ![terminal image](terminal.png)
 
 The terminal (or command prompt on Windows, I will call it terminal) is a user interface to your computer that is different from the graphical user interface you are used to. We now view everything that happens on our computer in application windows with nice graphics. Opening our documents folder happens just by clicking on it and seeing the files displayed with a preview image.
@@ -130,31 +131,37 @@ In conclusion, the terminal looks like a scary hacker program, but it is very us
 
 ___
 
-#### LaTeX
+###  LaTeX
 
 ###### [Back to top](Tools.md)
 
 ___
 
-#### Data storage
+###  Regex
 
 ###### [Back to top](Tools.md)
 
 ___
 
-#### Cognac website
+###  Data storage
 
 ###### [Back to top](Tools.md)
 
 ___
 
-#### LinkedIn
+###  Cognac website
 
 ###### [Back to top](Tools.md)
 
 ___
 
-#### Youtube
+###  LinkedIn
+
+###### [Back to top](Tools.md)
+
+___
+
+###  Youtube
 
 ###### [Back to top](Tools.md)
 

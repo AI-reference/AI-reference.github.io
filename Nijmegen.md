@@ -13,28 +13,28 @@ ___
 
 ___
 
-#### Living in Nijmegen
+###  Living in Nijmegen
 
 
 ###### [Back to top](Nijmegen.md)
 
 ___
 
-#### SSHN
+###  SSHN
 
 
 ###### [Back to top](Nijmegen.md)
 
 ___
 
-#### Getting around
+###  Getting around
 
 
 ###### [Back to top](Nijmegen.md)
 
 ___
 
-#### fun
+###  fun
 
 
 ###### [Back to top](Nijmegen.md)

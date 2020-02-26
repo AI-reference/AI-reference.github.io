@@ -19,7 +19,7 @@ ___
 
 ___
 
-#### Languages
+###  Languages
 There are many different programming languages, each with its own strengths and weaknesses. Some languages are used just to write scripts (a list of instructions to be executed automatically which could otherwise be ran by a human operator) and others to write massive software systems. In the AI bachelor you will learn to write code some of the most popular languages (and one of the most obscure too). 
 
 Your will start writing code in [Java](#learn-java), a well-established classic among the programming languages; like the Coca-cola of programming languages. Java is about middle of the road in high- vs low-level programming. High level programming means you can express your ideas in less code - further away from machine code (all the way down it’s ones and zeros). Low level programming languages are more difficult to master. They are closer to machine code and can manipulate memory directly and even work with single bytes in your machine. Examples of low level programming languages are C and C++. You may write some C code in one or two elective courses if you’d like (e.g. Hacking in C). 
@@ -30,14 +30,14 @@ The other very prominent programming language you will use in AI is [Python](#le
 
 ___
 
-#### Programming styles
+###  Programming styles
 There are different styles of programming, each with their own use. Some of the styles you will learn in the bachelor: imperative programming (writing coded statements that change the state of your program), Object Oriented programming (defining your program in the context of objects of different classes with their own properties), functional programming (defining functions that behave the same every time you call them). I won’t go into depth into these different styles of programming, you learn these in your first programming courses. 
 
 ###### [Back to top](Programming.md)
 
 ___
 
-#### Data types
+###  Data types
 In programming, we work a lot with variables. Variables are names we can give to pieces of information so we can easily manipulate it. For example we can say `potato = 19 * grape`. Now we can use the variable `potato` to refer to the value `19 * grape`, where `grape` is another variable. 
 
 These variables have a _type_. There are a number of predefined types we can use, but almost any programming language allows you to create your own data types as well. I will list some of the most used built-in data types in programming here.
@@ -66,7 +66,7 @@ Static typing allows the compiler to check for some obvious bugs before running 
 
 ___
 
-#### If Else
+###  If Else
 Often, we want some piece of code to run only if a condition is true, and maybe another piece if it isn't true. For example, if the variable `name` is equal to "Thijs", we can run a certain piece of code, and something else if this is not the case.
 
 I will give an example in java:
@@ -95,7 +95,7 @@ Only one of the conditions has to resolve to true.
 
 ___
 
-#### Loops
+###  Loops
 To execute the same piece of code multiple times after each other, you don't have to copy this code x times. You can write a _loop_ which tells the computer for how many times, or for how long this code should be executed. We generally distinguish two different kind of loops, a for-loop and a while-loop. You can use either in any case, but sometimes one is more useful and clear than the other. A for-loop (in java) generally consists of three parts: initialization, stop condition, iteration step. Here is an example of a for-loop in java:
 ```java
 for(int i = 0; i < 20; i++){
@@ -116,7 +116,7 @@ In the while-loop, the condition is once again a boolean (true or false), and th
 
 ___
 
-#### Functions and methods
+###  Functions and methods
 A program consists of command you write from the computer to execute. A way to avoid having to write the same piece of code over and over again we can write a function (it's called a method if it belongs to a specific class). In a function we write the piece of code and by calling that function the computer runs that piece of code. A function can take _parameters_, which are pieces of data you can give your function which it can then manipulate. Here is an example of a function in java.
 ```java
 public int numDivisors(int number){
@@ -147,7 +147,7 @@ System.out.println(numDivisors(6));
 
 ___
 
-#### Recursion
+###  Recursion
 Recursion is a useful programming tool, but can be quite tricky. Recursion is defined by calling a function in the body of that same function. This can lead to some very interesting behavior, but is also an easy source for tricky bugs. A recursive function should have some way to stop before calling the function again in its function body, otherwise it would call that function endlessly over and over again, crashing the program. This stopping criterion is called the base case. Let's first introduce an example.
 
 Example in java:
@@ -178,7 +178,7 @@ We use this definition to define a recursive function that computes the factoria
 
 ___
 
-#### Learn java
+###  Learn java
 In this section I will provide links to basic java lessons. You will be taught java at the very start of the bachelor too. This section can also function as some extra resources if you don't understand a particular concept in java.
 
 * [Quite long tutorial with java basics, including topics mentioned above](https://www.youtube.com/watch?v=eIrMbAQSU34) time-stamps for various topics are in the description.
@@ -191,7 +191,7 @@ In this section I will provide links to basic java lessons. You will be taught j
 
 ___
 
-#### Learn python
+###  Learn python
 Here I will provide some links to learn python, the most popular programming language currently. You gradually code more and more in python as you advance in your bachelor since python has many great machine learning libraries and works really well with AI concepts.
 
 * [Socratica python playlist](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-). Socratica is an amazing Youtube channel with loads of python videos, starting with installation and the basics. Lots of dry humor, and with an AI feel to it. It's fun.

@@ -11,7 +11,7 @@ ___
 ___
 
 
-#### Linear Algebra
+###  Linear Algebra
 
 
 ###### [Back to top](Courses.md)

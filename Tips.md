@@ -201,7 +201,7 @@ If you can't find a textbook online, you can often [buy it with a discount](http
 ___
 
 ### Student advisor
-
+If at any point you have a question about the study program, a personal problem, conflict with students or professors, or anything else that may have an effect on your study and is related to **YOU** you can talk to a student advisor. 
 
 ###### [Back to top](Tips.md)
 
