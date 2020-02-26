@@ -4,7 +4,18 @@
 
 ___
 
-#### languages
+#####[Languages](#languages)
+#####[Programming styles](#programming-styles)
+#####[Data types](#data-types)
+#####[Functions / methods](#functions-/-methods)
+#####[Loops](#loops)
+#####[Recursion](#recursion)
+#####[Learn java](#learn-java)
+#####[Learn python](#learn-python)
+
+___
+
+#### Languages
 There are many different programming languages, each with its own strengths and weaknesses. Some languages are used just to write scripts (a list of instructions to be executed automatically which could otherwise be ran by a human operator) and others to write massive software systems. In the AI bachelor you will learn to write code some of the most popular languages (and one of the most obscure too). 
 
 Your will start writing code in Java, a well-established classic among the programming languages; like the Coca-cola of programming languages. Java is about middle of the road in high- vs low-level programming. High level programming means you can express your ideas in less code - further away from machine code (all the way down it’s ones and zeros). Low level programming languages are more difficult to master. They are closer to machine code and can manipulate memory directly and even work with single bytes in your machine. Examples of low level programming languages are C and C++. You may write some C code in one or two elective courses if you’d like (e.g. Hacking in C). 
@@ -39,10 +50,12 @@ This is called _dynamic typing_.
 Static typing allows the compiler to check for some obvious bugs before running the code, for example multipling a String by -3.67. These errors can be spotted by the editor while coding, which prevents you from having to debug your program from simple type errors. Dynamic typing is nice because it allows the programmer to write code quickly and change a variable however they want to. They do have to be more careful with writng their code to make sure all of it fits together nicely.
 
 #### Functions / methods
+
+
 #### Loops
 #### Recursion
-#### Java examples
-#### Python examples
+#### Learn java
+#### Learn python
 
 
 
