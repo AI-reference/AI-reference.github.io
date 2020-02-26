@@ -124,8 +124,10 @@ System.out.println(numDivisors(6));
 
 #### Recursion
 Recursion is a useful programming tool, but can be quite tricky. Recursion is defined by calling a function in the body of that same function. This can lead to some very interesting behavior, but is also an easy source for tricky bugs. A recursive function should have some way to stop before calling the function again in its function body, otherwise it would call that function endlessly over and over again, crashing the program. This stopping criterion is called the base case. Let's first introduce an example.
+
 <details>
 	<summary>Example in java</summary>
+
 	```java
 	public int factorial(int n){      
 	      if (n == 1)      
@@ -135,8 +137,10 @@ Recursion is a useful programming tool, but can be quite tricky. Recursion is de
 	}  
 	```
 </details>
+
 <details>
 	<summary>Example in python</summary>
+
 	```python
 	def factorial(n):
 		if n==1:
