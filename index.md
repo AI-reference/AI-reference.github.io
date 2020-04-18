@@ -14,11 +14,11 @@ This Resource page consists of:
 * [Programming basics](Programming.md)
 * [Course-specific resources](Courses.md)
 * [Information about the campus](Campus.md)
-* [Information about Nijmegen](Nijmegen.md)
+<!-- * [Information about Nijmegen](Nijmegen.md) -->
 
 ___
 
 <br>
 
-###### If you have any questions regarding the information or suggestions on topics to cover you can always send me an [email](mailto:thijsvandenhout@live.nl). Good luck on your bachelor AI!
+##### If you have any questions regarding the information or suggestions on topics to cover you can always send me an [email](mailto:thijsvandenhout@live.nl). Good luck on your bachelor AI!
 

@@ -51,13 +51,13 @@ You can [print on campus](https://www.ru.nl/fb/english/print/printing-campus/){:
 ___
 
 ###  Studying
-You can study on campus in many buildings. There is a big [University Library](https://www.ru.nl/library/){:target="_blank"} where you can study. It's often busy though; I rarely went there. You you also study in the Library of Science, or in libraries of other faculties, such as in the [Elinor Ostrom building](https://www.ru.nl/fm/over-de-faculteit/contact/elinor-ostromgebouw/), the building for political studies, business studies etc., the [Grotius building](https://www.ru.nl/opleidingen/studeren-radboud/faciliteiten-campus/gebouwen/grotiusgebouw/){:target="_blank"} which houses the law studies (it's very beautiful). It's fun to explore other buildings. The Erasmus building also has a study area on the first floor. Or you can just study at home.
+You can study on campus in many buildings. There is a big [University Library](https://www.ru.nl/library/){:target="_blank"} where you can study. It's often busy though; I rarely went there. You you also study in the Library of Science, or in libraries of other faculties, such as in the [Elinor Ostrom building](https://www.ru.nl/fm/over-de-faculteit/contact/elinor-ostromgebouw/){:target="_blank"}, the building for political studies, business studies etc., the [Grotius building](https://www.ru.nl/opleidingen/studeren-radboud/faciliteiten-campus/gebouwen/grotiusgebouw/){:target="_blank"} which houses the law studies (it's very beautiful). It's fun to explore other buildings. The Erasmus building also has a study area on the first floor. Or you can just study at home.
 
 ###### [Back to top](Campus.md)
 ___
 
 ###  Computers
-In all buldings you can work on desktops. You can login with your student number and password (same login as Brightspace). The most computers are in the Huygens building on the ground floor. In the science buildings you can login with your science login (which you can get at [CNCZ](https://wiki.cncz.science.ru.nl/Hoofdpagina), the computer & communications department on the first floor in the Huygens building). With your science login you can access more sciency applications and it's the default way to login in the Huygens building.
+In all buldings you can work on desktops. You can login with your student number and password (same login as Brightspace). The most computers are in the Huygens building on the ground floor. In the science buildings you can login with your science login (which you can get at [CNCZ](https://wiki.cncz.science.ru.nl/Hoofdpagina){:target="_blank"}, the computer & communications department on the first floor in the Huygens building). With your science login you can access more sciency applications and it's the default way to login in the Huygens building.
 
 ###### [Back to top](Campus.md)
 ___
