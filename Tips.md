@@ -278,4 +278,13 @@ Note the backlashes in Windows vs the forward slashes in Mac.
 
 ___
 
+###  Data storage
+Storing your data efficiently and safely is important! Having an organized file structure on your computer(s) is like having an organized desk and knowing where to find everything. In whichever operating system you use you can create some structure in your files such that you can easily find your way around your files. I recommend creating a directory for "University" and in that a directory for each course you follow.
+
+I also recommend using a cloud storage program that can automatically synchronize with your file system, such as Dropbox, Google Drive, iCloud, etc. When everything is on the cloud, you always have all your files with you, even if you don't have your computer with you. having it synchronize with your phone is an added bonus. It is also useful to make periodic backups of your important data (ongoing projects and the like). You do _not_ want to lose them.
+
+###### [Back to top](Tips.md)
+
+___
+
 [Back to home](index.md)

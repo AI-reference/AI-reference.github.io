@@ -16,11 +16,9 @@ ___
 * [Writing papers](#writing-papers)
 * [LaTeX](#latex)
 * [Regex](#regex)
-* [Data storage](#data-storage)
 * [Cognac website](#cognac-website)
+* [Discord](#discord)
 * [LinkedIn](#linkedin)
-* [Youtube](#youtube)
-
 ___
 
 ###  Programming requirements
@@ -77,6 +75,8 @@ You can also google complete error messages like "java.lang.reflect.InvocationTa
 Before you ask anyone, google your problem and see if you can solve it yourself. It's often faster and definitely more rewarding.
 
 Google has more advanced search setting than you think. You can search the web for exact sentences with quotes, which is especially useful if google thinks it knows what you want, when it actually doesn't. For example searching _the quick yellow fox_ will end up in result for the famous sentence _The quick brown fox jumps over the lazy dog_. But if you actually only want results for quick _yellow_ foxed, just put it in quotes: "the quick yellow fox". You can use +term to force results to explicitly include that term, or -term to not show any results with that term. You can get way more specific with [Google Advanced Search](https://www.google.com/advanced_search){:target="_blank"}. 
+
+Similarly, on [Youtube](https://www.youtube.com/){:target="_blank"} you can find tutorials for nearly everything. If you are stuck on a particular topic in a course, there is almost certainly someone on youtube that has made a video explaining that topic. I have spent many many hours on youtube prepping for exams. 
 
 ###### [Back to top](Tools.md)
 
@@ -163,43 +163,47 @@ The most useful thing about LaTeX is the abililty to create a reference page for
   year={2019}
 }
 ```
-You can easily get the bibtex reference format from any paper by searching for the paper on [Google scholar](https://scholar.google.com/){:target="_blank"}, clicking on the quotes icon: ![quotes icon](media/quotes.png "Cite") and clicking on BibTeX at the bottom. Add this bibtex to a .bib file in your LaTeX project and citing the reference in your paper. [Tutorial on LaTeX references in Overleaf](https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX){:target="_blank"}.
+You can easily get the bibtex reference format from any paper by searching for the paper on [Google scholar](https://scholar.google.com/){:target="_blank"}, clicking on the quotes icon: ![quotes icon](media/quotes.png "Cite") and clicking on BibTeX at the bottom. Add this bibtex to a .bib file in your LaTeX project and cite the reference in your paper. [Tutorial on LaTeX references](https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX){:target="_blank"}.
 
-The easiest way to write LaTeX documents is on [Overleaf](https://www.overleaf.com/){:target="_blank"}. Overleaf is a website where you can edit all your documents and download them as PDF. You can also get LaTeX [templates](https://www.overleaf.com/latex/templates){:target="_blank"} from there. Overleaf also has an amazing set of [tutorials](https://www.overleaf.com/learn/latex/Tutorials){;target="_blank"} to help you on your way.
+The easiest way to write LaTeX documents is on [Overleaf](https://www.overleaf.com/){:target="_blank"}. Overleaf is a website where you can edit all your documents and download them as PDF. You can also get LaTeX [templates](https://www.overleaf.com/latex/templates){:target="_blank"} from there. Overleaf also has an amazing set of [tutorials](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"} to help you on your way.
 
 ###### [Back to top](Tools.md)
 
 ___
 
 ###  Regex
+Regex is short for regular expression. A regular expression is a sequence of characters to describe a search pattern. Let's say you want to search for email addresses in a large file to select and copy them. You want to _capture_ the whole email address with your search pattern to be able to copy them, so searching for just "@" will not do it. But searching for a particular email address will not capture _all_ email addresses. This is a perfect case in which you can use a regular expression.
+
+An example regex for searching email addresses could be `.+@\S+\.[a-z]+`. Wow, it's beautiful. let's dissect that one. A period `.` will match any character. `+` means we want 1 or more of whatever it follows, so the first part `.+` means one or more of whatever character. Then we want an @, do we just add it to the regex as it is. Now we need the domain name like 'hotmail'. For this we want any non-space character, which we can get using `\S`. `\S` is the opposite of `\s` which matches any space character (space, tab, newlinen etc.) Again we use `+` because we need one or more of those characters. Now we need a period, but we saw before that a period matched any character. To _escape_ such special characters and just use them as a plain character with no special function we put a backslash in from of it. `\.` matches a period. Then we have `[a-z]`, which means any character between a-z (lowercase!) with a `+` to match the final 'com' or 'nl' part. 
+
+That's our regex for email addresses; it will match 'info@W3schools.com' for example. This is just a simple example, and is definitely not perfect. Almost all programming languages have regex built in, and most text editors and IDEs allow for search and replace using regex. Not every programming language uses the exact same symbols for regex, but they are very similar. I use [Pythex](https://pythex.org/){:target="_blank"} for testing my regular expressions. They also have a cheat sheet at the bottom of a page. You can google "regex tutorial" to find thousands of good regex tutorials. Try to figure out the regex I would _actually_ use for email addresses:
+`[\w\.-]+@[\w\.-]+\.[a-z]+`
 
 ###### [Back to top](Tools.md)
 
 ___
 
-###  Data storage
+
+###  CognAc website
+On the [CognAc](Tips.md#cognac) [website](https://svcognac.nl/){:target="_blank"} you can find many useful links. You can see what the committees are up to, register for activities, view study material, order books with a discount and more. Have a look around!
 
 ###### [Back to top](Tools.md)
 
 ___
 
-###  Cognac website
+
+###  Discord
+[Discord](https://discordapp.com/){:target="_blank"} is a free voice-over-IP application where you can chat with friends in text and voice channels. It's a great way to keep in touch with friends. Our study association CognAc also has a discord server! [Join](https://discord.gg/bYxE6hH){:target="_blank"} the CognAc discord server for online activities (you do have to be a member).
 
 ###### [Back to top](Tools.md)
 
 ___
 
 ###  LinkedIn
+[LinkedIn](https://www.linkedin.com/){:target="_blank"} is a social media for your professional network. As opposed to other social media platforms like Facebook, LinkedIn is used to keep in contact with your professional connections rather than friends (of course there can exist an overlap). Add people to your network who you think are useful to you in your professional life. On LinkedIn you can post CV items like your work experience, education, etc. It's a good habit to keep this information up to date. Recruiters for companies often look on LinkedIn to find future employees, and you can browse through companies you are interested in to see their job requirements, vacancies, or chat with someone about a possible internship. I recommend creating a LinkedIn account to keep yourself connected in the professional scene; having many useful connections can't be a bad thing when lookup for an internship or job. 
 
 ###### [Back to top](Tools.md)
 
 ___
-
-###  Youtube
-
-###### [Back to top](Tools.md)
-
-___
-
 
 [Back to home](index.md)
