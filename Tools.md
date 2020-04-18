@@ -19,6 +19,7 @@ ___
 * [Cognac website](#cognac-website)
 * [Discord](#discord)
 * [LinkedIn](#linkedin)
+
 ___
 
 ###  Programming requirements

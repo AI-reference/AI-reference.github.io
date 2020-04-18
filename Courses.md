@@ -32,6 +32,7 @@ ___
 
 ###  Calculus
 * [Very nice playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr){:target="_blank"} for making calculus more intuitive. Visualizations are amazing.
+Also, see the [Math](#math) section.
 
 ###### [Back to top](Courses.md)
 ___
