@@ -155,14 +155,14 @@ LaTeX (pronounced Latek) is a *Document preparation system* in which you write p
 
 The most useful thing about LaTeX is the abililty to create a reference page for you in whichever style you want. Many citation options on the internet contain BibTeX. BibTeX is a format to manage your references. An example of a bibtex is the following. 
 
-``
+```
 @article{tran2019bayesian,
   title={Bayesian generative active deep learning},
   author={Tran, Toan and Do, Thanh-Toan and Reid, Ian and Carneiro, Gustavo},
   journal={arXiv preprint arXiv:1904.11643},
   year={2019}
 }
-``
+```
 
 The easiest way to write LaTeX documents is on [Overleaf](https://www.overleaf.com/){:target="_blank"}. Overleaf is a website where you can edit all your documents and download them as PDF. You can also get LaTeX [templates](https://www.overleaf.com/latex/templates){:target="_blank"} from there. Overleaf also has an amazing set of [tutorials](https://www.overleaf.com/learn/latex/Tutorials){;target="_blank"} to help you on your way.
 
