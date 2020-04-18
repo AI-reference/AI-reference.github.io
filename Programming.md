@@ -181,10 +181,10 @@ ___
 ###  Learn java
 In this section I will provide links to basic java lessons. You will be taught java at the very start of the bachelor too. This section can also function as some extra resources if you don't understand a particular concept in java.
 
-* [Quite long tutorial with java basics, including topics mentioned above](https://www.youtube.com/watch?v=eIrMbAQSU34) time-stamps for various topics are in the description.
-* [A java tutorial playlist](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpPpdR_9IQBUDLjYalvdrGGb) with many useful videos, if you understand the concepts mentioned here on this page and in the tutorial above, you should focus on the videos from classes and objects on (video 26+).
+* [Quite long tutorial with java basics, including topics mentioned above](https://www.youtube.com/watch?v=eIrMbAQSU34){:target="_blank"} time-stamps for various topics are in the description.
+* [A java tutorial playlist](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpPpdR_9IQBUDLjYalvdrGGb){:target="_blank"} with many useful videos, if you understand the concepts mentioned here on this page and in the tutorial above, you should focus on the videos from classes and objects on (video 26+).
 * [Codecademy](https://www.codecademy.com/learn/learn-java). On this website you can learn to code java in an interactive way. It's really good to get the basics right.
-* [Learn java online](https://www.learnjavaonline.org) is a free website where you can learn to write java code and run it in the browser, quite cool!
+* [Learn java online](https://www.learnjavaonline.org){:target="_blank"} is a free website where you can learn to write java code and run it in the browser, quite cool!
 * Any concepts you learn in the first courses on programming you can find many good tutorials for on Youtube. Really do watch some Youtube videos if you don't understand a topic, they really really help.
 
 ###### [Back to top](Programming.md)
@@ -195,9 +195,9 @@ ___
 Here I will provide some links to learn python, the most popular programming language currently. You gradually code more and more in python as you advance in your bachelor since python has many great machine learning libraries and works really well with AI concepts.
 
 * [Socratica python playlist](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-). Socratica is an amazing Youtube channel with loads of python videos, starting with installation and the basics. Lots of dry humor, and with an AI feel to it. It's fun.
-* [Learn python](https://www.learnpython.org) is a website with free python coding tutorials, where you actually get to write and test code.
+* [Learn python](https://www.learnpython.org){:target="_blank"} is a website with free python coding tutorials, where you actually get to write and test code.
 * [Numpy video](https://www.youtube.com/watch?v=QUT1VHiLmmI). One of the most used python libraries is Numpy. It contains code for all things numbers, and especially arrays. Try to learn this when doing your linear algebra course and try to find some python code to do the operations you learn there.
-* [Codecademy](https://www.codecademy.com/learn/learn-python-3) also has a Python course, but sadly it's only available to pro accounts. If you do want to get serious with codecademy, you can consider it. It has many many great courses on loads of topics, concepts and programming languages. It's quite expensive though. I wouldn't buy a pro account if you are planning to do just one or two courses.
+* [Codecademy](https://www.codecademy.com/learn/learn-python-3){:target="_blank"} also has a Python course, but sadly it's only available to pro accounts. If you do want to get serious with codecademy, you can consider it. It has many many great courses on loads of topics, concepts and programming languages. It's quite expensive though. I wouldn't buy a pro account if you are planning to do just one or two courses.
 
 ###### [Back to top](Programming.md)
 

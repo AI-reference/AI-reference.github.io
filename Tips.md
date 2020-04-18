@@ -25,7 +25,7 @@ ___
 ___
 
 ### CognAC
-[CognAC](https://svcognac.nl) is the study association for Artificial Intelligence at Radboud University. You should definitely join, since the contribution is very cheap and you get so much out of it.
+[CognAC](https://svcognac.nl){:target="_blank"} is the study association for Artificial Intelligence at Radboud University. You should definitely join, since the contribution is very cheap and you get so much out of it.
 
 CognAC hosts tons of fun events for AI students every week, you can easily enroll on the website if needed. CognAC also offer 15% off textbooks via their website. If you have the time you can join a committee (of which there are so many), like the Activities committee, City Trip committee, First Years committee, and more organizational ones such as the Website committee, Audit committee and Board Application committee.
 
@@ -81,7 +81,7 @@ In the previous section, on [how to read a paper](#reading-papers), I explained 
 For an in-depth article on how to write a scientific paper you can click [here](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously).
 
 Some general writing tips:
-* Use a [thesaurus](https://www.thesaurus.com) to find synonyms for words you often repeat, or to find a word that fits the context better.
+* Use a [thesaurus](https://www.thesaurus.com){:target="_blank"} to find synonyms for words you often repeat, or to find a word that fits the context better.
 * Use passive sentence structure, e.g.: _The data was gathered from this source_, instead of _We gathered the data from this source_.
 * Proofread your document well to prevent any easy-to-spot grammar errors or typos.
 * Save your final document as PDF, don't hand in file formats from editors (like word's .docx files)
@@ -133,7 +133,7 @@ gradually go more in-depth into the topic as you present and end with a short su
 
 _To summarize: I talked about ... and ... and ... Thank you for listening, are there any questions?_
 
-You may find [a more elaborate guide](https://www.skillsyouneed.com/present/presentation-tips.html) useful too. But always take these guides with a grain of salt. There is no one golden template for every presentation, just mold it to where it fits the presentation style and length it should be.
+You may find [a more elaborate guide](https://www.skillsyouneed.com/present/presentation-tips.html){:target="_blank"} useful too. But always take these guides with a grain of salt. There is no one golden template for every presentation, just mold it to where it fits the presentation style and length it should be.
 
 ###### [Back to top](Tips.md)
 
@@ -178,10 +178,10 @@ ___
 You will use a number of online services given to you by Radboud very often. I will list them here.
 
 **Brightspace**
-[Brightspace](https://brightspace.ru.nl/) is the online page that hosts all your course's contents, your assignments, grades, groups, and more. On Brightspace you can see you course list, and by clicking on a course you get to the corresponding course page. On a course page you can find all the resources from that course like lectures slides, reading material, assignments, etc. You hand in your assignments on Brightspace most of the time. You teacher will post your grades on Brightspace.
+[Brightspace](https://brightspace.ru.nl/){:target="_blank"} is the online page that hosts all your course's contents, your assignments, grades, groups, and more. On Brightspace you can see you course list, and by clicking on a course you get to the corresponding course page. On a course page you can find all the resources from that course like lectures slides, reading material, assignments, etc. You hand in your assignments on Brightspace most of the time. You teacher will post your grades on Brightspace.
 
 **OSIRIS**
-[OSIRIS](https://ru.osiris-student.nl/) is the website where all your official study details are stored. On OSIRIS you can check your study progress (Credits scored, courses completed), official grades, calendar, course and exam registrations, and notes from your [student advisor](#student-advisor). 
+[OSIRIS](https://ru.osiris-student.nl/){:target="_blank"} is the website where all your official study details are stored. On OSIRIS you can check your study progress (Credits scored, courses completed), official grades, calendar, course and exam registrations, and notes from your [student advisor](#student-advisor). 
 
 On the progress page you can see the courses and corresponding credit you completed, failed and are yet to complete. You can also print a study progress overview with average grades and the like.
 
@@ -190,7 +190,7 @@ The grades shown on OSIRIS are the final grades for your courses, make sure thes
 On the Register page, you can register for courses and exams. Make sure you enroll before the courses begin (will be more lenient at the start of your first year). Registering for courses of the Science Faculty has a stricter deadline, check this. You can technically still enroll when a course has started (I have before); just email the professor of that course to ask for permission. Registering for a course usually automatically registers you for the exams and assignments of that course, but make sure you are registered before you go to take the exam. 
 
 **Personal schedule**
-On your [personal schedule](https://persoonlijkrooster.ru.nl) you can see your schedule with all the lectures, work groups, lab sessions, exams, etc. If you don't see a course, you can add it on the right side with "+ Add timetable" and searching for a course. You can synchronize this calendar with any existing calendar you already may use. I highly recommend this, sine you don't have to check this website every time you want to check your schedule. Do this by click the button with two arrows on the right that says "Connect calendar" when you hover over it.
+On your [personal schedule](https://persoonlijkrooster.ru.nl){:target="_blank"} you can see your schedule with all the lectures, work groups, lab sessions, exams, etc. If you don't see a course, you can add it on the right side with "+ Add timetable" and searching for a course. You can synchronize this calendar with any existing calendar you already may use. I highly recommend this, sine you don't have to check this website every time you want to check your schedule. Do this by click the button with two arrows on the right that says "Connect calendar" when you hover over it.
 
 **Student email**
 You will automatically get a student email address in something like the following format: firstname.lastname@student.ru.nl. Yours may be a little different if there are more people with your name. You can [access your mailbox online](https://mail.ru.nl), or connect it to any email client you use (preferred). You should keep an eye on this mailbox since you might get important announcements or notifications on it. You can also create a rule to forward any email to your current email address, but I prefer just connecting the email address to your email client so you can reply using your student mail.
@@ -198,13 +198,13 @@ You will automatically get a student email address in something like the followi
 With your student mail you can get access to some [cool extras from software companies](#student-extras)
 
 **Portal**
-From the [Radboud student portal](https://portal.ru.nl/) you can access all these services and more. If you see almost no content on the portal page, you may need to click on the button "My sites" in the top right and selecting the AI page.
+From the [Radboud student portal](https://portal.ru.nl/){:target="_blank"} you can access all these services and more. If you see almost no content on the portal page, you may need to click on the button "My sites" in the top right and selecting the AI page.
 
 **STIP (student information point)**
-on [STIP](https://www.ru.nl/socialsciences/stip/programme-information/artificial-intelligence/) you can view all the details about the AI program at Radboud: the bachelor course overviews, master tracks, news, rules and regulations, etc. Anything related to the AI program organization-wise. 
+on [STIP](https://www.ru.nl/socialsciences/stip/programme-information/artificial-intelligence/){:target="_blank"} you can view all the details about the AI program at Radboud: the bachelor course overviews, master tracks, news, rules and regulations, etc. Anything related to the AI program organization-wise. 
 
 **RUQuest (Worldcat)**
-[RUQuest](https://ru.on.worldcat.org/discovery) is an online database with books, papers and complete scientific journals you can search for free. Often, scientific papers are locked behind a pay-wall at the journal's website, but RUQuest can get access to most papers for free. This is EXTREMELY useful when doing research, especially for bigger studies like your final thesis.
+[RUQuest](https://ru.on.worldcat.org/discovery){:target="_blank"} is an online database with books, papers and complete scientific journals you can search for free. Often, scientific papers are locked behind a pay-wall at the journal's website, but RUQuest can get access to most papers for free. This is EXTREMELY useful when doing research, especially for bigger studies like your final thesis.
 
 ###### [Back to top](Tips.md)
 
@@ -213,14 +213,14 @@ ___
 ### Buying textbooks
 WAIT! don't just blindly buy any textbook a course page tells you to buy. First visit the first lecture to see if it is actually required, ask the professor if he doesn't talk about it. Secondly, for many textbooks you can find a PDF online somewhere. Just google the textbook name, authors and "PDF" and look around if you find it.
 
-If you can't find a textbook online, you can often [buy it with a discount](https://svcognac.nl/study/books) from the [Cognac website](Tools.md#cognac-website). Or buy it second hand from other students.
+If you can't find a textbook online, you can often [buy it with a discount](https://svcognac.nl/study/books){:target="_blank"} from the [Cognac website](Tools.md#cognac-website). Or buy it second hand from other students.
 
 ###### [Back to top](Tips.md)
 
 ___
 
 ### Student advisor
-If at any point you have a question about the study program, a personal problem, conflict with students or professors, or anything else that may have an effect on your study and is related to **YOU** you can talk to a student advisor. Don't be afraid to contact the student advisor, everyone will at some point. You can make an appointment [here](https://cloud.reflexappointment.nl/appointment/RadboudFSW/en-GB/start?spx.StartPageIndex=2) or via the [Radboud student portal](https://portal.ru.nl/) on the AI page on the right side (see [online services](#online-services)).
+If at any point you have a question about the study program, a personal problem, conflict with students or professors, or anything else that may have an effect on your study and is related to **YOU** you can talk to a student advisor. Don't be afraid to contact the student advisor, everyone will at some point. You can make an appointment [here](https://cloud.reflexappointment.nl/appointment/RadboudFSW/en-GB/start?spx.StartPageIndex=2) or via the [Radboud student portal](https://portal.ru.nl/){:target="_blank"} on the AI page on the right side (see [online services](#online-services)).
 
 Some things you might want to talk to the student advisor about:
 * Failing many courses
@@ -258,7 +258,7 @@ Many students don't know that their student email gives them access to free vers
 
 With your student card you can get discounts at museums, cinemas and other activities all around the world! Be sure to always carry your student card just in case you can safe some extra money. 
 
-At [Surfspot](https://www.surfspot.nl) you can buy software and hardware with a student discount. They also have free software which is normally paid. You login with your Brightspace account. Especially notable are Microsoft Office 365 Pro (Word, PowerPoint, etc.) for €3,99 (10 licences!!!), SPSS (A program you might use in statistics courses) for €3,75, and Adobe Creative Cloud for 50% off (if you're creative). Their hardware shop ranges from laptops, to gadgets, to computer parts.
+At [Surfspot](https://www.surfspot.nl){:target="_blank"} you can buy software and hardware with a student discount. They also have free software which is normally paid. You login with your Brightspace account. Especially notable are Microsoft Office 365 Pro (Word, PowerPoint, etc.) for €3,99 (10 licences!!!), SPSS (A program you might use in statistics courses) for €3,75, and Adobe Creative Cloud for 50% off (if you're creative). Their hardware shop ranges from laptops, to gadgets, to computer parts.
 
 
 ###### [Back to top](Tips.md)

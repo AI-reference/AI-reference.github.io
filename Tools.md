@@ -28,7 +28,7 @@ To be able to write code, you need a few things...
 * Firstly, logically, you need a computer (preferably your own laptop). It can be any laptop of any operating system; the programs you will write in your bachelor will not be so tough on your hardware, so any decent laptop will do. 
 * Programming language (development kit).
   * Python: to write python code you need Python. many computers already have python installed. You can check this by opening a [terminal](#terminal) and typing `python --version`. If it shows a version (3.\*) you're good to go. Otherwise [download python here](https://www.python.org).
-  * Java: to code java you need the java development kit. Here you can [download](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html) the JDK version 13 (currently the latest)
+  * Java: to code java you need the java development kit. Here you can [download](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html){:target="_blank"} the JDK version 13 (currently the latest)
 * An [IDE](#ides).
 * An interest and motivation for programming. Programming is much more than just learning the syntax of a language. It is a way of thinking. You will learn the mindset, and the tools you need to solve problems. If you program long enough, you will start to think of ways to solve problems in real-life by programming a solution, which is awesome.
 
@@ -43,15 +43,15 @@ IDEs (Integrated Development Environment) are the programs in which you are goin
 
 The first programming language you will write code in is java. There are many IDEs for java, and you will likely be taught to use the IDE your professor prefers (or has always used and is refusing to change). I will list some IDEs with links to their download page, and my opinion of them
 
-* [Eclipse](https://www.eclipse.org) - probably your first recommended IDE by AI professors. It's okay. ([Eclipse tutorial playlist](https://www.youtube.com/playlist?list=PLEAQNNR8IlB5R_qZvrFH0g8wC_FLWK9si))
-* [Netbeans](https://netbeans.apache.org) - probably the second recommended IDE by professors. It's bad, be warned for many troubles with this IDE. ([Netbeans tutorial](https://www.youtube.com/watch?v=K3twuFyPwkg), the quality of this video is representative of a Netbeans experience. It's an old video but Netbeans still looks exactly the same)
-* [IntelliJ](https://www.jetbrains.com/idea/) - the absolute best IDE in my opinion; shockingly not recommended in any course I followed in the bachlor. IntelliJ is an IDE by the company [JetBrains](https://www.jetbrains.com). They create the best IDE for many programming languages. ([IntelliJ startup](https://www.youtube.com/watch?v=c0efB_CKOYo))
+* [Eclipse](https://www.eclipse.org){:target="_blank"} - probably your first recommended IDE by AI professors. It's okay. ([Eclipse tutorial playlist](https://www.youtube.com/playlist?list=PLEAQNNR8IlB5R_qZvrFH0g8wC_FLWK9si))
+* [Netbeans](https://netbeans.apache.org){:target="_blank"} - probably the second recommended IDE by professors. It's bad, be warned for many troubles with this IDE. ([Netbeans tutorial](https://www.youtube.com/watch?v=K3twuFyPwkg), the quality of this video is representative of a Netbeans experience. It's an old video but Netbeans still looks exactly the same)
+* [IntelliJ](https://www.jetbrains.com/idea/){:target="_blank"} - the absolute best IDE in my opinion; shockingly not recommended in any course I followed in the bachlor. IntelliJ is an IDE by the company [JetBrains](https://www.jetbrains.com). They create the best IDE for many programming languages. ([IntelliJ startup](https://www.youtube.com/watch?v=c0efB_CKOYo))
 
 **For python:**
 
 You will also use the python programming language in your bachelor. For python, you have three good options to write code in.
 
-* [PyCharm](https://www.jetbrains.com/pycharm/) is my recommended IDE for python programming. It is from the same company as IntelliJ (JetBrains) and works very similarly. You will want to use a proper IDE like this when writing larger programs or if you just like the help an IDE can offer during coding. ([Quick tutorial](https://www.youtube.com/watch?v=56bPIGf4us0))
+* [PyCharm](https://www.jetbrains.com/pycharm/){:target="_blank"} is my recommended IDE for python programming. It is from the same company as IntelliJ (JetBrains) and works very similarly. You will want to use a proper IDE like this when writing larger programs or if you just like the help an IDE can offer during coding. ([Quick tutorial](https://www.youtube.com/watch?v=56bPIGf4us0))
 * [Regular text editor](#text-editors). You can also write code in a regular text editor and run it in the command line ([terminal](#terminal)). Simply write your code, save it as name.py and run it in the terminal with `python name.py`. This is only recommended for small programs. For larger programs you should use a proper IDE.
 * [Jupyter Notebook](https://jupyter.org/index.html). Jupyter notebooks are amazing to develop code which you want to run piece by piece. You can create _cells_ in which you write your code and you can run your cells one after the other. The python _interpreter_ will keep in memory all code that has been ran before so you can split your program over multiple blocks. This is useful for example when loading a lot of data or doing a computation that takes a long time, and doing various things with it after that. Instead of running the whole code again every time, you can just run the part where you work with the data and load it once at the start of your session. [Tutorial](https://www.youtube.com/watch?v=HW29067qVWk). (I recommend pip install instead of conda install if you don't already have the whole conda setup installed).
 
@@ -80,7 +80,7 @@ Tutorials on git will be given in the next section on [GitHub](#github), a websi
 ___
 
 ###  GitHub
-[GitHub](https://github.com) is an amazing website on which you can store your project in git repositories. Repositories (repos) on Github are public or private, public repos can been seen by anyone, and private repos can only be seen by you and your collaborators. Collaborators? Yes! You can work together on a project in a repository, meaning you can all make changes and commit these to the repository. 
+[GitHub](https://github.com){:target="_blank"} is an amazing website on which you can store your project in git repositories. Repositories (repos) on Github are public or private, public repos can been seen by anyone, and private repos can only be seen by you and your collaborators. Collaborators? Yes! You can work together on a project in a repository, meaning you can all make changes and commit these to the repository. 
 
 People make changes to the project and commit these changes locally and after they are done they can _push_ these changes to the repository host (github) this is as simple as writing `git push` in the terminal in the folder of your project. Other collaboraters can get these changes on their computer by writing `git pull`, pulling the changes from the repository host (Github) to their own computer!
 
@@ -97,7 +97,7 @@ You will definitely need some tutorials to get the hang of the basics of a workf
 * [Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
 * [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
-Once again, you can get a [GitHub pro account for free](https://education.github.com/students) with your student email address (...@student.ru.nl). A pro GitHub account allows for unlimited private repositories, so you can store the projects you are working on for your courses on there without anyone seeing them and being able to copy from you.
+Once again, you can get a [GitHub pro account for free](https://education.github.com/students){:target="_blank"} with your student email address (...@student.ru.nl). A pro GitHub account allows for unlimited private repositories, so you can store the projects you are working on for your courses on there without anyone seeing them and being able to copy from you.
 
 You can also create websites and blogs easily with GitHub, like this website!!! It is built completely automatically and is super easy. [Learn more](https://pages.github.com)
 
@@ -114,7 +114,7 @@ The terminal is a command-line interface, in which users can interact with the c
 
 Knowing your way around a terminal is a useful skill that can be used in many situations. Some programs can **only** be accessed from the terminal, and many installations of software will happen in the terminal. You may at some point want to connect to a server or other computer, and only be presented with the terminal of that computer, no fancy graphical user interfaces.
 
-The most useful type of terminal (in my and many others' opinion) is a Unix terminal. Unix is the underlying family of operating systems for Linux and MacOS systems. Consequently, a unix terminal is available by default on any Linux and Mac system. Simply open the app "terminal" and you are there. Windows on the other hand, has its own _command prompt (cmd)_. Most third-party app installation etc. can be done just fine in a Windows terminal, but if you want to be extra cool you can [download and use a Unix terminal](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) on your Windows computer. To open the Windows command prompt, press the Windows key, type "cmd" and press enter.
+The most useful type of terminal (in my and many others' opinion) is a Unix terminal. Unix is the underlying family of operating systems for Linux and MacOS systems. Consequently, a unix terminal is available by default on any Linux and Mac system. Simply open the app "terminal" and you are there. Windows on the other hand, has its own _command prompt (cmd)_. Most third-party app installation etc. can be done just fine in a Windows terminal, but if you want to be extra cool you can [download and use a Unix terminal](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/){:target="_blank"} on your Windows computer. To open the Windows command prompt, press the Windows key, type "cmd" and press enter.
 
 If you want you can learn how to navigate your computer with the terminal:
 
