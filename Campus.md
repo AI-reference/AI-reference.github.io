@@ -45,7 +45,7 @@ ___
 ___
 
 ###  Printing
-You can [print on campus](https://www.ru.nl/fb/english/print/printing-campus/). There are printers in every building. You have to create an account on an app on which you can deposit money. This app is connected to your student number and student card and you can easily print things. Just follow the steps on the [tutorial](https://www.ru.nl/fb/english/print/printing-campus/).
+You can [print on campus](https://www.ru.nl/fb/english/print/printing-campus/){:target="_blank"}. There are printers in every building. You have to create an account on an app on which you can deposit money. This app is connected to your student number and student card and you can easily print things. Just follow the steps on the [tutorial](https://www.ru.nl/fb/english/print/printing-campus/).
 
 ###### [Back to top](Campus.md)
 ___
