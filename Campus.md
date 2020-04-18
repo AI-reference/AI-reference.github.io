@@ -19,7 +19,7 @@ ___
 
 ###  Map
 
-![Campus map](campus_map.jpeg)
+![Campus map](media/campus_map.jpeg)
 
 ###### [Back to top](Campus.md)
 ___

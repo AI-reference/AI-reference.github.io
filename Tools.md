@@ -106,7 +106,7 @@ You can also create websites and blogs easily with GitHub, like this website!!! 
 ___
 
 ###  Terminal
-![terminal image](terminal.png)
+![terminal image](media/terminal.png)
 
 The terminal (or command prompt on Windows, I will call it terminal) is a user interface to your computer that is different from the graphical user interface you are used to. We now view everything that happens on our computer in application windows with nice graphics. Opening our documents folder happens just by clicking on it and seeing the files displayed with a preview image.
 
