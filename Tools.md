@@ -163,6 +163,7 @@ The most useful thing about LaTeX is the abililty to create a reference page for
   year={2019}
 }
 ```
+You can easily get the bibtex reference format from any paper by searching for the paper on [Google scholar](https://scholar.google.com/){:target="_blank"}, clicking on the quotes icon: ![quotes icon](media/quotes.png "Cite") and clicking on BibTeX at the bottom. Add this bibtex to a .bib file in your LaTeX project and citing the reference in your paper. [Tutorial on LaTeX references in Overleaf](https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX){:target="_blank"}.
 
 The easiest way to write LaTeX documents is on [Overleaf](https://www.overleaf.com/){:target="_blank"}. Overleaf is a website where you can edit all your documents and download them as PDF. You can also get LaTeX [templates](https://www.overleaf.com/latex/templates){:target="_blank"} from there. Overleaf also has an amazing set of [tutorials](https://www.overleaf.com/learn/latex/Tutorials){;target="_blank"} to help you on your way.
 
