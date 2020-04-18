@@ -9,6 +9,7 @@ ___
 * [Programming requirements](#programming-requirements)
 * [IDEs](#ides)
 * [Text editors](#text-editors)
+* [Google](#google)
 * [Git](#git)
 * [Github](#github)
 * [Terminal](#terminal)
@@ -45,7 +46,7 @@ The first programming language you will write code in is java. There are many ID
 
 * [Eclipse](https://www.eclipse.org){:target="_blank"} - probably your first recommended IDE by AI professors. It's okay. ([Eclipse tutorial playlist](https://www.youtube.com/playlist?list=PLEAQNNR8IlB5R_qZvrFH0g8wC_FLWK9si))
 * [Netbeans](https://netbeans.apache.org){:target="_blank"} - probably the second recommended IDE by professors. It's bad, be warned for many troubles with this IDE. ([Netbeans tutorial](https://www.youtube.com/watch?v=K3twuFyPwkg), the quality of this video is representative of a Netbeans experience. It's an old video but Netbeans still looks exactly the same)
-* [IntelliJ](https://www.jetbrains.com/idea/){:target="_blank"} - the absolute best IDE in my opinion; shockingly not recommended in any course I followed in the bachlor. IntelliJ is an IDE by the company [JetBrains](https://www.jetbrains.com){:target="_blank"}. They create the best IDE for many programming languages. ([IntelliJ startup](https://www.youtube.com/watch?v=c0efB_CKOYo))
+* [IntelliJ](https://www.jetbrains.com/idea/){:target="_blank"} - the absolute best IDE in my opinion. IntelliJ is an IDE by the company [JetBrains](https://www.jetbrains.com){:target="_blank"}. They create the best IDE for many programming languages. ([IntelliJ startup](https://www.youtube.com/watch?v=c0efB_CKOYo))
 
 **For python:**
 
@@ -62,7 +63,20 @@ With your student-email (...@student.ru.nl) you can get the professional version
 ___
 
 ###  text editors
-Often you may want to use a simple text editor. To open files to quickly see the contents without opening the complete IDE for example. Or when quickly writing some easy code. I recommend [Sublime Text](https://www.sublimetext.com){:target="_blank"}. It's a great text editor and contains markup for virtually all coding languages. You will sometimes be prompted to buy a licence, but you can ignore that, it'll keep working.
+Often you may want to use a simple text editor. To open files to quickly see the contents without opening the complete IDE for example. Or when quickly writing some easy code. I recommend [Visual Studio Code](https://code.visualstudio.com/){:target="_blank"}, a Very nice editor with markup for all programming languages, easy to use and comes with built in [Git](#git) options. I also recommend [Sublime Text](https://www.sublimetext.com){:target="_blank"}. It's a great text editor and contains markup for virtually all coding languages. You will sometimes be prompted to buy a licence, but you can ignore that, it'll keep working.
+
+###### [Back to top](Tools.md)
+
+___
+
+###  Google
+Yes, Google. Google (or equivalent decent search engine) is one of the most used tools in any computer science-based study. Many things you will learn you will not remember, and many things are left for you to figure out on your own. Always remember that almost all information you will ever need is somewhere on the internet, and you _have_ to learn how to harness the power of searching for answers online. Google is most effective when using keywords instead of full sentences. Don't know how to copy a list of items in python? Just google *"python copy list"* and you will find your answer in the first few results. Very often, these results point to [stackoverflow.com](https://stackoverflow.com/){:target="_blank"}, an amazing website where you can ask programming questions. And if _you_ have that question, almost certainly someone else has already had that question and asked it on StackOverflow.
+
+You can also google complete error messages like "java.lang.reflect.InvocationTargetException". It may be even more effective if you include what kind of program you are working on: "javafx _error message_".
+
+Before you ask anyone, google your problem and see if you can solve it yourself. It's often faster and definitely more rewarding.
+
+Google has more advanced search setting than you think. You can search the web for exact sentences with quotes, which is especially useful if google thinks it knows what you want, when it actually doesn't. For example searching _the quick yellow fox_ will end up in result for the famous sentence _The quick brown fox jumps over the lazy dog_. But if you actually only want results for quick _yellow_ foxed, just put it in quotes: "the quick yellow fox". You can use +term to force results to explicitly include that term, or -term to not show any results with that term. You can get way more specific with [Google Advanced Search](https://www.google.com/advanced_search){:target="_blank"}. 
 
 ###### [Back to top](Tools.md)
 
@@ -82,24 +96,28 @@ ___
 ###  GitHub
 [GitHub](https://github.com){:target="_blank"} is an amazing website on which you can store your project in git repositories. Repositories (repos) on Github are public or private, public repos can been seen by anyone, and private repos can only be seen by you and your collaborators. Collaborators? Yes! You can work together on a project in a repository, meaning you can all make changes and commit these to the repository. 
 
+If you have ever heard of the term "open source", this system may ring a bell. Open source software is software for which the code is open to see for everyone. Often, such software is developped with GitHub so everyone can view the code and add to it (when permitted).
+
 People make changes to the project and commit these changes locally and after they are done they can _push_ these changes to the repository host (github) this is as simple as writing `git push` in the terminal in the folder of your project. Other collaboraters can get these changes on their computer by writing `git pull`, pulling the changes from the repository host (Github) to their own computer!
 
 You have to pull all changes so your project is up-to-date locally before you can push any changes. It may be possible that you and another team mate are working on the same file. In that case, Git is often smart enough to _merge_ the changes together. But in the case you both changed things in the same place, you will get a _merge conflic_ (you will get these for sure and get very annoyed with them). You can resolve these conflicts by opening the file in which there is a conflict and choosing one of the two versions (it will say where in the file). 
 
+Most git repositories have a README.md file. This file usually contains information about the project, how to install and use it and how to contribute. the .md extension is for Markdown files. [Markdown](https://en.wikipedia.org/wiki/Markdown){:target="_blank"} is a lightweight markup language to easily add some structure to text like headings, bullet points, tables, links, etc. with very little effort. This website's content is written in Markdown! [See this cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"} for how to use markdown in your README documents. 
+
 Getting familiar with git and used to all the syntax may take some effort, but it is definitely worth it. You will be using it all throughout your study, and likely later in your job too. 
 
-Git commands are executed in the terminal, at the location of the git repository, but many [IDEs](#ides) and text editors offer built-in git support. In the IDE you can simply push a button to pull changes, make commits, and push them to the repository. JetBrain's IDEs have this option and it works really well.
+Git commands are executed in the terminal, at the location of the git repository, but many [IDEs](#ides) and text editors offer built-in git support. In the IDE you can simply push a button to pull changes, make commits, and push them to the repository. The text editor [VSCode](#text-editors) and JetBrain's IDEs have this option and it works really well.
 
 GitHub also has a desktop client if you are deadly afraid of the [terminal](#terminal), but I recommend using the terminal commands because you will know for sure what is going on.
 
-You will definitely need some tutorials to get the hang of the basics of a workflow with a version control system. here are some useful tutorial links.
+You will definitely need some tutorials to get the hang of the basics of a workflow with a version control system. here are some useful tutorial links, but the best way of learning is by trying it out.
 * [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 * [Github Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)
 * [Learn Git In 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE)
 
-Once again, you can get a [GitHub pro account for free](https://education.github.com/students){:target="_blank"} with your student email address (...@student.ru.nl){:target="_blank"}. A pro GitHub account allows for unlimited private repositories, so you can store the projects you are working on for your courses on there without anyone seeing them and being able to copy from you.
+Once again, you can get a [GitHub pro account for free](https://education.github.com/students){:target="_blank"} with your student email address (...@student.ru.nl). A pro GitHub account allows for unlimited private repositories, so you can store the projects you are working on for your courses on there without anyone seeing them and being able to copy from you.
 
-You can also create websites and blogs easily with GitHub, like this website!!! It is built completely automatically and is super easy. [Learn more](https://pages.github.com)
+You can also create websites and blogs easily with GitHub, like this website! It is built using Markdown and tranformed into html completely automatically and is super easy. [Learn more](https://pages.github.com){:target="_blank"}
 
 ###### [Back to top](Tools.md)
 
@@ -108,7 +126,7 @@ ___
 ###  Terminal
 ![terminal image](media/terminal.png)
 
-The terminal (or command prompt on Windows, I will call it terminal) is a user interface to your computer that is different from the graphical user interface you are used to. We now view everything that happens on our computer in application windows with nice graphics. Opening our documents folder happens just by clicking on it and seeing the files displayed with a preview image.
+The terminal (or command line or command prompt on Windows, I will call it terminal) is a user interface to your computer that is different from the graphical user interface you are likely used to. We now view everything that happens on our computer in application windows with nice graphics. Opening our documents folder happens just by clicking on it and seeing the files displayed with a preview image.
 
 The terminal is a command-line interface, in which users can interact with the computer system using commands. There are commands for opening programs, showing files in a particular folder, creating a new file, even downloading content from the internet. Pretty much anything concerning your operating system and file system can be done through the terminal. 
 
@@ -123,7 +141,8 @@ If you want you can learn how to navigate your computer with the terminal:
 
 Things the terminal is used for the most include:
 * Working with [Git](#git), the tutorials mentioned in the [GitHub](#github) section explain how to use git with the terminal.
-* Installing python packages with pip. Pip is the standard python package-management system. If you need to download a python package, chances are high you will do it through pip. for example, to install the machine learning library scikit-learn with loads of machine learning models, use the command `pip install scikit-learn`. 
+* Installing python packages with pip. Pip is the standard python package-management system. If you need to download a python package, chances are high you will do it through pip. for example, to install the machine learning library scikit-learn with loads of machine learning models, use the command `pip install scikit-learn`.
+* In Linux you would install many programs through the command line.
 
 In conclusion, the terminal looks like a scary hacker program, but it is very useful in many scenarios and you can see it as just a different way to interact with your computer.
 
@@ -132,6 +151,20 @@ In conclusion, the terminal looks like a scary hacker program, but it is very us
 ___
 
 ###  LaTeX
+LaTeX (pronounced Latek) is a *Document preparation system* in which you write plain-text which will be formatted when compiled, as opposed to a standard word processor like Microsoft Word, in which you type formatted text directly. Writing documents in LaTeX is something that will not come naturally and it's quite a steep learning curve, but it's very powerful once you get the hang of it. In LaTeX you can use templates that other people have made. For example a conference paper template. Writing your papers in such templates will make it look much more professional than your average word document. In LaTeX you can write extensive mathematical expressions in [math mode](https://www.overleaf.com/learn/latex/Mathematical_expressions){:target="_blank"} to make your math look really nice.
+
+The most useful thing about LaTeX is the abililty to create a reference page for you in whichever style you want. Many citation options on the internet contain BibTeX. BibTeX is a format to manage your references. An example of a bibtex is the following. 
+
+``
+@article{tran2019bayesian,
+  title={Bayesian generative active deep learning},
+  author={Tran, Toan and Do, Thanh-Toan and Reid, Ian and Carneiro, Gustavo},
+  journal={arXiv preprint arXiv:1904.11643},
+  year={2019}
+}
+``
+
+The easiest way to write LaTeX documents is on [Overleaf](https://www.overleaf.com/){:target="_blank"}. Overleaf is a website where you can edit all your documents and download them as PDF. You can also get LaTeX [templates](https://www.overleaf.com/latex/templates){:target="_blank"} from there. Overleaf also has an amazing set of [tutorials](https://www.overleaf.com/learn/latex/Tutorials){;target="_blank"} to help you on your way.
 
 ###### [Back to top](Tools.md)
 
