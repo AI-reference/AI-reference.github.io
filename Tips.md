@@ -78,7 +78,7 @@ In the previous section, on [how to read a paper](#reading-papers), I explained 
 * Conclusion - Draw the line from the results back to the problem you are trying to solve. What do these reselts mean for this research topic?
 * Discussion - discuss any problems you encountered during your research, any findings that stand out or are unexpected, and give recommendations for future research.
 
-For an in-depth article on how to write a scientific paper you can click [here](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously).
+For an in-depth article on how to write a scientific paper you can click [here](https://www.elsevier.com/connect/11-steps-to-structuring-a-science-paper-editors-will-take-seriously){:target="_blank"}.
 
 Some general writing tips:
 * Use a [thesaurus](https://www.thesaurus.com){:target="_blank"} to find synonyms for words you often repeat, or to find a word that fits the context better.
@@ -92,7 +92,7 @@ _TODO_
 
 **LaTeX**
 
-LaTeX is kind of a programming language (if you take a very broad definition of the word), in which you can write your paper's layout and content to make it look very professional. You can write your paper in LaTeX on the website [Overleaf](https://www.overleaf.com). More information on LaTeX can be found on the [Tools page](Tools.md#latex).
+LaTeX is kind of a programming language (if you take a very broad definition of the word), in which you can write your paper's layout and content to make it look very professional. You can write your paper in LaTeX on the website [Overleaf](https://www.overleaf.com). More information on LaTeX can be found on the [Tools page](Tools.md#latex){:target="_blank"}.
 
 ###### [Back to top](Tips.md)
 
@@ -213,14 +213,14 @@ ___
 ### Buying textbooks
 WAIT! don't just blindly buy any textbook a course page tells you to buy. First visit the first lecture to see if it is actually required, ask the professor if he doesn't talk about it. Secondly, for many textbooks you can find a PDF online somewhere. Just google the textbook name, authors and "PDF" and look around if you find it.
 
-If you can't find a textbook online, you can often [buy it with a discount](https://svcognac.nl/study/books){:target="_blank"} from the [Cognac website](Tools.md#cognac-website). Or buy it second hand from other students.
+If you can't find a textbook online, you can often [buy it with a discount](https://svcognac.nl/study/books){:target="_blank"} from the [Cognac website](Tools.md#cognac-website){:target="_blank"}. Or buy it second hand from other students.
 
 ###### [Back to top](Tips.md)
 
 ___
 
 ### Student advisor
-If at any point you have a question about the study program, a personal problem, conflict with students or professors, or anything else that may have an effect on your study and is related to **YOU** you can talk to a student advisor. Don't be afraid to contact the student advisor, everyone will at some point. You can make an appointment [here](https://cloud.reflexappointment.nl/appointment/RadboudFSW/en-GB/start?spx.StartPageIndex=2) or via the [Radboud student portal](https://portal.ru.nl/){:target="_blank"} on the AI page on the right side (see [online services](#online-services)).
+If at any point you have a question about the study program, a personal problem, conflict with students or professors, or anything else that may have an effect on your study and is related to **YOU** you can talk to a student advisor. Don't be afraid to contact the student advisor, everyone will at some point. You can make an appointment [here](https://cloud.reflexappointment.nl/appointment/RadboudFSW/en-GB/start?spx.StartPageIndex=2){:target="_blank"} or via the [Radboud student portal](https://portal.ru.nl/){:target="_blank"} on the AI page on the right side (see [online services](#online-services)).
 
 Some things you might want to talk to the student advisor about:
 * Failing many courses
